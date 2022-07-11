@@ -1,0 +1,35 @@
+{%- assign path = include.path | remove: ".jpg" | remove: ".jpeg" | remove: ".png" | remove: ".tiff" -%}
+
+<figure>
+
+
+
+  <picture>
+    {% for i in site.imagemagick.widths -%}
+    <source media="(max-width: {{ i }}px)" srcset="{{ path | relative_url }}-{{ i }}.webp" />
+    {% endfor -%}
+
+    <!-- NOT SURE IF THIS LINE AFTER TO DELETE XXX -->
+    <!-- <a class="ml-auto mr-2" {% if include.ref %}href="{{ include.ref }}" {% endif %} target="_blank"> </a> -->
+
+    <img {% if include.class %}class="{{ include.class }}" {% endif %} src="{{ include.path | relative_url }}" {% if
+      include.alt %}alt="{{ include.alt }}" {% endif %} {% if include.title %}title="{{ include.title }}" {% endif %} {%
+      if include.zoomable %}data-zoomable{% endif %} />
+  </picture>
+
+  <!--
+  <picture>
+    {% for i in site.imagemagick.widths -%}
+    <source media="(max-width: {{ i }}px)" srcset="{{ path | relative_url }}-{{ i }}.webp" />
+    {% endfor -%}
+
+    <img {% if include.class %}class="{{ include.class }}" {% endif %} src="{{ include.path | relative_url }}" {% if
+      include.alt %}alt="{{ include.alt }}" {% endif %} {% if include.ref %}href="{{ include.ref }}" {% endif %} {% if
+      include.title %}title="{{ include.title }}" {% endif %} {% if include.zoomable %}data-zoomable{% endif %} />
+
+  </picture>
+  -->
+
+  {%- if include.caption -%}<figcaption class="caption">{{ include.caption }}</figcaption>{%- endif %}
+
+</figure>

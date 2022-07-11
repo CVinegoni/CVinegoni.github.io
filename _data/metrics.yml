@@ -1,0 +1,22 @@
+- title: <h3 style="color:purple" class="category" id="scicontribs">Scientific contributions<a class="anchor" href='#scicontribs'></a></h3>
+  type: list
+  contents:
+    - 'Author and coauthor of 180 scientific contributions. Among them, 3 Invited Review Chapters <i class="fas fa-book" aria-hidden="true"></i>, 1 Patent <i class="fas fa-file-signature" aria-hidden="true"></i>, 108 articles <i class="fas fa-file-invoice" aria-hidden="true"></i>
+      published in peer-reviewed international scientific journals, 35 oral
+      presentations and poster sessions at international conferences, and  33 proceedings <i class="fas fa-globe-americas" aria-hidden="true"></i>. <br> <br>
+      <b>Note</b>: for further details on my research, please feel free to browse my <a href="/diffpubs/" target="_blank"><b>full body of work</b></a> page.'
+
+- title: <h3 style="color:purple" class="category" id="bibliogoogle">Bibliometrics Google<a class="anchor" href='#bibliogoogle'></a></h3>
+  type: list
+  contents:
+    - " <b>Citations:</b> 9226 on Google Scholar <br>
+      <b>h-index:</b> 46 <br>
+      <b>i10-index:</b> 97 <br>
+      <b>Nr. Documents:</b> 196"
+
+- title: <h3 style="color:purple" class="category" id="bibliowos">Bibliometrics Web of Science<a class="anchor" href='#bibliowos'></a></h3>
+  type: list
+  contents:
+    - " <b>Citations:</b> 6,158 on Web of Science <br>
+      <b>h-index:</b> 38 <br>
+      <b>Nr. Documents:</b> 112"

@@ -1,0 +1,62 @@
+- title: "Fluorescence microscopy tensor imaging representations for large-scale dataset analysis"
+  image: tensor_imaging.png
+  description: Building a data representation technique capable of providing whole-organ tensor imaging representations of local regional descriptors based on fluorescence data acquisition. This method enables rapid, multiscale, analysis and virtualization of large-volume, high-resolution complex biological data while generating 3D tractographic representations.
+  authors: Vinegoni<sup>#†</sup>, C., Feruglio†, P. F., Courties, G., Schmidt, S., Hulsmans, M., Lee, S., Wang, R., Sosnovik, D., Nahrendorf, M., and Weissleder, R
+  link:
+    url: 2020-SCIREP
+    display: Scientific Reports, 10(1), 15 (2020)
+  highlight: 1
+
+- title: "Measurement of drug-target engagement in live cells by two-photon fluorescence anisotropy imaging"
+  image: drug_imaging.png
+  description: Imaging technique based on fluorescence anisotropy capable of measuring the binding interaction between molecules. Our technique allows the direct characterization of target engagement of fluorescently labeled drugs.
+  authors: Vinegoni<sup>#†</sup>, C., Fumene Feruglio, P., Brand, C., Lee, S., Nibbs, A. E., Stapleton, S., Shah, S., Gryczynski, I., Reiner, T., Mazitschek, R., and Weissleder, R.
+  link:
+    url: 2017-NP
+    display: Nature Protocols, 12(7), 1472 (2017)
+  highlight: 1
+
+- title: "Real-time high dynamic range laser scanning microscopy"
+  image: hdr_imaging.png
+  description: Optical imaging method for extending the imaging dynamic range in optical microscopy and improving the image signal-to-noise ratio.
+  authors: Vinegoni<sup>#†</sup>, C., Swisher†, C. L., Fumene Feruglio†, P., Giedt, R. J., Rousso, D. L., Stapleton, S., and Weissleder, R.
+  link:
+    url: 2016-NCOMM-2
+    display: Nature Communications, 7, 13 (2016)
+  highlight: 1
+
+- title: "Imaging the beating heart in the mouse using intravital microscopy techniques"
+  image: gating_imaging.png
+  description: Experimental imaging procedure for intravital microscopy based on a combination of thoracic surgery, tissue stabilizers and acquisition gating methods, for enabling imaging at the single-cell level in the beating heart in the mouse.
+  authors: Vinegoni<sup>#†</sup>, C., Aguirre†, A. D., Lee, S., and Weissleder, R.
+  link:
+    url: 2015-NPROT
+    display: Nature Protocols, 10(11), 1802 (2015)
+  highlight: 1
+
+- title: "Real-time in vivo imaging of the beating mouse heart at microscopic resolution"
+  image: motion_imaging.png
+  description: Imaging technique based on a novel stabilizer setup combined with a gating acquisition algorithm for the imaging of a beating murine heart at the single-cell level. The method allows serial in vivo fluorescence imaging of the beating heart in live mice in both confocal and nonlinear modes over the course of several hours.
+  authors: Lee†, S., Vinegoni#†, C., Fumene Feruglio, P., Fexon, L., Gorbatov, R., Pivoravov, M., Sbarbati, A., Nahrendorf, M., and Weissleder, R.
+  link:
+    url: 2012-NC
+    display: Nature Communications, 3, 8 (2012)
+  highlight: 1
+
+- title: "Mapping Molecular Agents Distributions in Whole Mice Hearts Using Born-Normalized Optical Projection Tomography"
+  image: map_imaging.png
+  description: Design of a high resolution, dual channel Born-normalized near-infrared fluorescence optical projection tomography system to quantitatively and spatially resolve molecular agents distribution within whole murine heart.
+  authors: Vinegoni#†, C., Fumene Feruglio†, P., Razansky, D., Gorbatov, R., Ntziachristos, V., Sbarbati, A., Nahrendorf, M., and Weissleder, R.
+  link:
+    url: 2012-PLOSONE
+    display: Plos One, 7(4), 9 (2012)
+  highlight: 1
+
+- title: "Motion characterization scheme to minimize motion artifacts in intravital microscopy"
+  image: stabilization_imaging.png
+  description: Development of an imaging platform for in vivo characterization of physiologically induced axial motion. The motion characterization system can be straightforwardly implemented on any conventional laser scanning microscope and can be used to evaluate the effectiveness of different motion stabilization schemes.
+  authors: Lee, S., Courties, G., Nahrendorf, M., Weissleder, R., and Vinegoni#, C.
+  link:
+    url: 2017-JBO
+    display: Journal of Biomedical Optics, 22(3), 7 (2017)
+  highlight: 1

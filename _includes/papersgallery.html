@@ -1,0 +1,58 @@
+<!-- _includes/papersgallery.html -->
+
+<!--  READD THE BOTTOM IT WAS WORKING BEFORE REMOVE XX
+<div class="row">
+    <div class="col-sm-3">
+        {% if entry.image %}
+        <center>
+            {% if entry.image contains '://' %}
+            <img src="{{ entry.image }}" class="paperImage">
+            {% else %}
+            <img src="{{ entry.image | prepend: '/assets/img/' | relative_url }}" class="paperImage">
+            {% endif %}
+        </center>
+        {% endif %}
+    </div>
+</div>
+-->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+    {% if papersgallery.redirect -%}
+    <a href="{{ papersgallery.redirect }}" target="_blank">
+        {%- else -%}
+        <a href="{{ papersgallery.url | relative_url }}" target="_blank">
+            {%- endif %}
+            <div class="card hoverable">
+                {%- if papersgallery.img %}
+                {%- include figure.html
+                path=papersgallery.img
+                alt="papersgallery thumbnail" -%}
+                {%- endif %}
+                <div class="card-body">
+                    <h5 class="card-title text-lowercase ">
+                        {{ papersgallery.shorttitle }}</h5>
+                    <!-- HERE REMOVED SHOULD PUT BACK IF YOU WANT SMALL CHARS<div class="card-title text-lowercase ">
+                            <div style="font-size:0.85em; text-align: justify;">
+                                {{ papersgallery.title }}</div>
+                        </div> -->
+                    <!-- <p class="card-text">{{ papersgallery.description }}</p> -->
+                    <div class="row ml-1 mr-1 p-0">
+                        {%- if papersgallery.github -%}
+                        <div class="github-icon">
+                            <div class="icon" data-toggle="tooltip" title="Code Repository">
+                                <a href="{{ papersgallery.github }}" target="_blank"><i
+                                        class="fab fa-github gh-icon"></i></a>
+                            </div>
+                            {%- if papersgallery.github_stars -%}
+                            <span class="stars" data-toggle="tooltip" title="GitHub Stars">
+                                <i class="fas fa-star"></i>
+                                <span id="{{ papersgallery.github_stars }}-stars"></span>
+                            </span>
+                            {%- endif %}
+                        </div>
+                        {%- endif %}
+                    </div>
+                </div>
+            </div>
+        </a>
+</div>

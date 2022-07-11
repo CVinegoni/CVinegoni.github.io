@@ -1,0 +1,36 @@
+<div class="grid-item">
+  {% if workingproject.redirect %}
+  <a href="{{ workingproject.redirect }}" target="_blank">
+    {% else %}
+    <a href="{{ workingproject.url | relative_url }}" target="_blank">
+      {% endif %}
+      <div class="card hoverable">
+        {% if workingproject.img %}
+        <img src="{{ workingproject.img | relative_url }}" alt="workingproject thumbnail">
+        {% endif %}
+        <div class="card-body">
+          <h5 class="card-title">{{ workingproject.title }}</h5>
+          <p class="card-text">{{ workingproject.description }}</p>
+          <div class="row ml-1 mr-1 p-0">
+            {% if workingproject.website %}
+            <a href="{{ workingproject.website }}" class="btn_course btn-sm z-depth-0" role="button"
+              target="_blank">GitHub Project Webpage</a>
+            {% endif %}
+            {% if workingproject.github %}
+            <div class="github-icon">
+              <div class="icon" data-toggle="tooltip" title="Code Repository">
+                <a href="{{ workingproject.github }}" target="_blank"><i class="fab fa-github gh-icon"></i></a>
+              </div>
+              {% if workingproject.github_stars %}
+              <span class="stars" data-toggle="tooltip" title="GitHub Stars">
+                <i class="fas fa-star"></i>
+                <span id="{{ workingproject.github_stars }}-stars"></span>
+              </span>
+              {% endif %}
+            </div>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </a>
+</div>

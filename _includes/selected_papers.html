@@ -1,0 +1,9 @@
+<div class="select_publications">
+  <h2>Select Publications <a href="/papers" target="_blank">[full list]</a></h2>
+  {% bibliography -f papers -q @*[selected=true]* %}
+</div>
+
+<div class="select_publications">
+  <h2>Select Proceedings <a href="/proceedings" target="_blank">[full list]</a></h2>
+  {% bibliography -f proceedings -q @*[selected=true]* %}
+</div>

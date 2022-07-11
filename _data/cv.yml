@@ -1,0 +1,168 @@
+- title: <span style="color:purple">General Information</span>
+  type: map
+  contents:
+    - name: Full Name
+      value: Claudio Vinegoni
+    - name: Affiliation
+      value: Center for Systems Biology - MGH Harvard University <i class="fas fa-building"></i>
+    - name: Contact
+      value: cvinegoni [at] mgh [dot] harvard [dot] edu <i class="fas fa-envelope"></i> 
+    - name: Phone
+      value: (+1)-857.891.4272 <i class="fas fa-phone-alt"></i>
+    - name: Languages
+      value: Italian(mother tongue), English (fluent), German (colloquial), French, Arabic (elementary)
+
+- title: <span style="color:purple">Current Position</span>
+  type: list
+  contents:
+    - Assistant Professor <br> Center for Systems Biology at MGH-Harvard University
+
+
+- title: <span style="color:purple">Research Areas</span>
+  type: list
+  contents:
+    - My research background is in physics focused in the optical imaging field. Specifically in
+      fluorescence, fluorescence polarization and time resolved imaging techniques, multiphoton and confocal microscopy,
+      Raman spectroscopy, Coherent anti-Stokes Raman Scattering (CARS) imaging, optical coherence microscopy and
+      tomography, mesoscopic imaging, optical projection tomography, and fluorescence molecular tomography in
+      diffusive regime for whole mouse imaging.
+    - My current research focuses on cancer imaging, drug imaging, neural imaging and cardiovascular imaging.
+    - Development of novel optical imaging platforms for motion compensation for in vivo heart imaging, molecular and
+      label-free imaging, high throughput
+      imaging systems for drug-target engagement, in vivo and in vitro studies of pharmacodynamics for fluorescently
+      labeled drugs, longitudinal microscopy imaging study of insulitis in mice, development of optical imaging modalities
+      for in vivo imaging.
+    - Development of novel data acquisition (hardware and software), image processing and signal processing tools for motion compensation of
+      physiological motion in living mice models.
+    - Development of software tools for image data analysis and mining for quantification and classification in
+      systems biology.
+    - I also work on machine learning and AI methods applied in microscopy image processing to facilitate cellular
+      segmentation and image resolution and contrast.
+
+- title: <span style="color:purple">Education</span>
+  type: table
+  contents:
+    - title: Universite de Geneve – Ph.D.
+      year: 2001
+      location: Switzerland
+      description:
+        - 'These presentee a la Faculte des sciences de  l <a href="https://www.unige.ch/sciences/physique/physics-section/section/" target="_blank"><b>Universite de Geneve</b></a>'
+        - 'Advisor: Prof. Nicolas Gisin <a href="https://www.unige.ch/sciences/physique/physics-section/section/" target="_blank"><b>Universite de Geneve</b></a>'
+        - 'Thesis: <i> Nonlinear Effects in Optical Fibers <a href="/thesis" target="_blank" title="Ph.D. Thesis"><i class="fa fa-graduation-cap" aria-hidden="true"></i></a></i>'
+
+    - title: Universita di Trento – M.S. in Physics
+      year: 1998
+      location: Italy
+      description:
+        - 'Tesi presentata alla Facolta di Scienze dell <a href="https://www.physics.unitn.it/" target="_blank"><b>Universita di Trento</b></a>'
+        - 'Advisor: Prof. Gino Mariotto and Enzo Cazzanelli <a href="https://www.physics.unitn.it/" target="_blank"><b>Universita di Trento</b></a>'
+        - 'Thesis: <i> Structure and Vibrational Properties of Electrochromic Materials <a href="/thesis" target="_blank" title="Ph.D. Thesis"><i class="fa fa-graduation-cap" aria-hidden="true"></i></a></i>'
+
+- title: <span style="color:purple">Work Experience</span>
+  type: table
+  contents:
+    - title: "Asst. Prof. at MGH-Harvard University - (Boston, USA)"
+      year:  2011 - present
+      location: Center for Systems Biology
+      description:
+        - "Development of a fluorescence based imaging system for for cardiovascular imaging."
+        - "In vivo drug imaging"
+        - "Design of several fluorescence microscopy imaging platforms."  
+        - "Machine learning and deep learning for data analysis and microscopy image processing."  
+    - title: "Instructor of Radiology at MGH-Harvard University - (Boston, USA)"
+      year:  2008 - 2010
+      location: Center for Systems Biology
+      description:
+        - "Development of a fluorescence based imaging system for the detection of the vulnerable plaque in a clinical setting (catheter)."
+        - "Design of several fluorescence microscopy imaging platforms."
+    - title: "Post-Doc researcher at MGH-Harvard University - (Boston, USA)"
+      year: " 2005 -  2008"
+      location: Center for Molecular Imaging Research
+      description:
+        - "Designed software for the reconstruction of whole body distribution of fluorescently labeled targeting agents in whole mouse."
+        - "Designed platform for molecular imaging photoacoustic tomography."
+        - "Design of imaging platform and computational software for in vivo mesoscopic tomographic imaging"
+    - title: "Post-Doc researcher at the University of Illinois Urbana-Champaign - (USA)"
+      year: "2003 - 2005"
+      location: Biophotonics Imaging Laboratory
+      description:
+        - "Development of optical imaging systems for molecular and structural biological characterization 
+        based on CARS and spectral-domain optical coherence tomography (OCT)."
+    - title: "Guest research fellow at Chalmers University - (Goteborg, Sweden)"
+      year: "2002 - 2003"
+      location: Photonics Laboratory
+      description:
+        - "Development of optical imaging systems for molecular and structural biological characterization 
+        based on CARS and spectral-domain optical coherence tomography (OCT)."
+    - title: "Guest researcher at EXFO - (Quebec, CAN)"
+      year: " 2001 -  2001"
+      location: Photonics R&D Center
+      description:
+        - "Development of optical imaging systems for molecular and structural biological characterization 
+        based on CARS and spectral-domain optical coherence tomography (OCT)."
+    - title: "Research fellow at University of Pittsuburgh- (PA, USA)"
+      year: " 1998 -  1999"
+      location: Photonics Laboratory
+      description:
+        - "Development of interferometric optical imaging system for label free imaging."        
+    - title: "Technical Supervisor at the Univ. of Trento - (Trento, Italy)"
+      year: "1997 - 1998"
+      location: Laboratory of Ultrafast Spectroscopy
+      description:
+        - "Development of optical imaging systems for molecular and structural biological characterization 
+        based on CARS and spectral-domain optical coherence tomography (OCT)."
+    - title: "Technical Supervisor at the Univ. of Trento - (Trento, Italy)"
+      year: " 1996 -  1997"
+      location: Raman Spectroscopy Laboratory
+      description:
+        - "Development of optical imaging systems for molecular and structural biological characterization 
+        based on CARS and spectral-domain optical coherence tomography (OCT)."    
+
+
+- title: <span style="color:purple">Scientific contributions</span>
+  type: list
+  contents:
+    - 'Author and coauthor of 180 scientific contributions. Among them, 3 Invited Review Chapters <a href="/books" target="_blank" title="Books"><i class="fas fa-book" aria-hidden="true"></i></a>, 1 Patent <a href="/patents" target="_blank" title="Patents"><i class="fas fa-file-signature" aria-hidden="true"></i></a>, 108 articles
+      published in peer-reviewed international scientific journals <a href="/papers" target="_blank" title="Papers"><i class="fas fa-file-invoice" aria-hidden="true"></i></a>, preprints <a href="/preprints" target="_blank" title="Preprints"><i class="fas fa-print" aria-hidden="true"></i></a>, 
+      35 oral presentations and poster sessions at international conferences, and  33 proceedings <a href="/proceedings" target="_blank" title="Proceedings"><i class="fas fa-globe-americas" aria-hidden="true"></i></a>. <br> <br>
+      <b>Note</b>: for further details on my research, please feel free to browse my <a href="/diffpubs/" target="_blank"><b>full body of work</b></a> page.'
+
+- title: <span style="color:purple">Bibliometrics Google</span>
+  type: list
+  contents:
+    - ' <b>Citations:</b> 9226 on Google Scholar <br>
+       <b>h-index:</b> 46 <br>
+        <b>i10-index:</b> 97 <br>
+        <b>Nr. Documents:</b> 196
+        <br> <br>
+        <b>Note</b>: for further details please visit the <a href="/metrics/" target="_blank"><b>bibliometrics</b></a> page.'
+        
+
+- title: <span style="color:purple">Bibliometrics Web of Science</span>
+  type: list
+  contents:
+    - ' <b>Citations:</b> 6,158 on Web of Science <br>
+       <b>h-index:</b> 38 <br>
+        <b>Nr. Documents:</b> 112
+        <br><br>
+        <b>Note</b>: for further details please visit the <a href="/metrics/" target="_blank"><b>bibliometrics</b></a> page.'
+
+- title: <span style="color:purple">Active contributions</span>
+  type: list
+  contents:
+    - "Reviewer for the following journals: <i>Advanced Science | Applied Physics Letters Photonics | Biomedical Optics Express, Biotechnology Journal, Circulation: Cardiovascular Imaging | 
+      Cytometry | eLife | Frontiers in Physics | Frontiers in Immunology | IEEE Transactions on Information 
+      Technology in BioMedicine | IEEE Transaction on Biomedical Engineering | IEEE Transactions
+       of Instrument. and Measurements | IEEE Transactions on Med. Imaging | IEEE Journal of Biomedical and 
+       Health Informatics | Int. J. of Biochemistry | Int. J. of Biomedical Imaging |
+       JACC: Cardiovascular Imaging | Journal of Biophotonics | J. Lightwave Technology | Journal
+      of Mathematical Imaging and Vision | Journal of Microscopy | Journal of Molecular Imaging | 
+      Journal Nuclear Medicine | JOVE | Methods and Applications in Fluorescence | Micromachines | 
+      Molecular Imaging | Molecular Imaging and Biology | Nature Communications | Nature Methods | 
+      Nature Protocols | Optica | Optics Communications | Optics Express | Optics Letters | Photoacoustics | 
+      Photonics and Technology Letters | Physical Review A | Physical Review E | PlosOne | 
+      Review of Scientific Instruments | Scientific Reports | SLAS Discovery.</i>"
+    - "Chair of the ”Molecular Infrared and other novel imaging modalities” session at IEEE Engineering 
+      Medicine and Biology, Boston USA (2011)."
+    - "Technical Program Committee of the IEEE Biomedical and Health Informatics, Hong Kong (2012)."
+    - "Associate Editor, Biomedical Imaging and Image Processing, IEEE Engineering Medicine and Biology (2012-2022)"
