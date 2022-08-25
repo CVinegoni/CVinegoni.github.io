@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://cvinegoni.github.io/sitemap.xml
