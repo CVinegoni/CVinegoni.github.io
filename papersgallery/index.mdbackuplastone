@@ -40,8 +40,8 @@
  <link rel="shortcut icon"
     href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔬</text></svg>">
     
-    <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="http://localhost:4003/papersgallery/">
+    <link rel="stylesheet" href="/https://cvinegoni.github.io/assets/css/main.css">
+    <link rel="canonical" href="https://cvinegoni.github.io/https://cvinegoni.github.io/papersgallery/">
 
     <!-- Dark Mode -->
     
@@ -49,8 +49,8 @@
         href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css"
         media="none" id="highlight_theme_dark" />
 
-    <script src="/assets/js/theme.js"></script>
-    <script src="/assets/js/dark_mode.js"></script>
+    <script src="/https://cvinegoni.github.io/assets/js/theme.js"></script>
+    <script src="/https://cvinegoni.github.io/assets/js/dark_mode.js"></script>
     
   </head>
 
@@ -62,7 +62,7 @@
   <!-- Nav Bar -->
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
     <div class="container">
-      <a class="navbar-brand title font-weight-lighter" href="http://localhost:4003/">
+      <a class="navbar-brand title font-weight-lighter" href="https://cvinegoni.github.iohttps://cvinegoni.github.io/" target="_blank" rel="noopener noreferrer">
         <i class="fas fa-microscope" aria-hidden="true"></i>
         <!-- <img src="../assets/img/favicon.svg" alt="Microscopy" style="width:10%"> -->    |  Claudio Vinegoni, Ph.D.</a>
       <!-- Navbar Toggle -->
@@ -78,65 +78,65 @@
 
           <!-- About -->
           <li class="nav-item ">
-            <a class="nav-link" href="/">
+            <a class="nav-link" href="/https://cvinegoni.github.io/" target="_blank" rel="noopener noreferrer">
               <!-- removed XXX about inserted line below-->
               <i class="fas fa-home"></i></a>
           </li>
           
           <!-- Blog -->
           <li class="nav-item ">
-            <a class="nav-link" href="/blog/">Notes</a>
+            <a class="nav-link" href="/https://cvinegoni.github.io/blog/" target="_blank" rel="noopener noreferrer">Notes</a>
           </li>
 
           <!-- Other pages --><!-- changed here:  order instead of title-->
           <li class="nav-item ">
-            <a class="nav-link" href="/projects/">Projects</a>
+            <a class="nav-link" href="/https://cvinegoni.github.io/projects/" target="_blank" rel="noopener noreferrer">Projects</a>
           </li>
           <li class="nav-item dropdown ">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Publications</a>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="/diffpubs/"><i class="far fa-list-alt" aria-hidden="true"></i>    Scientific Production</a>
+              <a class="dropdown-item" href="/https://cvinegoni.github.io/diffpubs/" target="_blank" rel="noopener noreferrer"><i class="far fa-list-alt" aria-hidden="true"></i>    Scientific Production</a>
               <div class="dropdown-divider"></div>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="/papers/"><i class="fas fa-file-invoice" aria-hidden="true"></i>    Journal Articles</a>
+              <a class="dropdown-item" href="/https://cvinegoni.github.io/papers/" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-invoice" aria-hidden="true"></i>    Journal Articles</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="/preprints/"><i class="fas fa-print" aria-hidden="true"></i>    Preprints</a>
+              <a class="dropdown-item" href="/https://cvinegoni.github.io/preprints/" target="_blank" rel="noopener noreferrer"><i class="fas fa-print" aria-hidden="true"></i>    Preprints</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="/proceedings/"><i class="fas fa-globe-americas" aria-hidden="true"></i>    Proceedings and Conf.</a>
+              <a class="dropdown-item" href="/https://cvinegoni.github.io/proceedings/" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe-americas" aria-hidden="true"></i>    Proceedings and Conf.</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="/books/"><i class="fas fa-book" aria-hidden="true"></i>    Books</a>
+              <a class="dropdown-item" href="/https://cvinegoni.github.io/books/" target="_blank" rel="noopener noreferrer"><i class="fas fa-book" aria-hidden="true"></i>    Books</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="/patents/"><i class="fas fa-file-signature" aria-hidden="true"></i>    Patents</a>
+              <a class="dropdown-item" href="/https://cvinegoni.github.io/patents/" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-signature" aria-hidden="true"></i>    Patents</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="/thesis/"><i class=" fas fa-book-open" aria-hidden="true"></i>    Thesis</a>
+              <a class="dropdown-item" href="/https://cvinegoni.github.io/thesis/" target="_blank" rel="noopener noreferrer"><i class=" fas fa-book-open" aria-hidden="true"></i>    Thesis</a>
               <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="/metrics/"><i class="fa fa-graduation-cap" aria-hidden="true"></i>     Bibliometrics</a>
+              <a class="dropdown-item" href="/https://cvinegoni.github.io/metrics/" target="_blank" rel="noopener noreferrer"><i class="fa fa-graduation-cap" aria-hidden="true"></i>     Bibliometrics</a>
             </div>
           </li>
           <li class="nav-item ">
-            <a class="nav-link" href="/nicepub/">Highlights</a>
+            <a class="nav-link" href="/https://cvinegoni.github.io/nicepub/" target="_blank" rel="noopener noreferrer">Highlights</a>
           </li>
           <li class="nav-item ">
-            <a class="nav-link" href="/papersgallery/">Gallery</a>
+            <a class="nav-link" href="/https://cvinegoni.github.io/papersgallery/" target="_blank" rel="noopener noreferrer">Gallery</a>
           </li>
           <li class="nav-item ">
-            <a class="nav-link" href="/projectscards/">Code&amp;Data</a>
+            <a class="nav-link" href="/https://cvinegoni.github.io/projectscards/" target="_blank" rel="noopener noreferrer">Code&amp;Data</a>
           </li>
           <li class="nav-item ">
-            <a class="nav-link" href="/cv/">Vitae</a>
+            <a class="nav-link" href="/https://cvinegoni.github.io/cv/" target="_blank" rel="noopener noreferrer">Vitae</a>
           </li>
           <li class="nav-item ">
-            <a class="nav-link" href="/timeline/">Timeline</a>
+            <a class="nav-link" href="/https://cvinegoni.github.io/timeline/" target="_blank" rel="noopener noreferrer">Timeline</a>
           </li>
           <li class="nav-item ">
-            <a class="nav-link" href="/workingprojects/">OpenProjects</a>
+            <a class="nav-link" href="/https://cvinegoni.github.io/workingprojects/" target="_blank" rel="noopener noreferrer">OpenProjects</a>
           </li>
           <li class="nav-item ">
-            <a class="nav-link" href="/contact/">Contact</a>
+            <a class="nav-link" href="/https://cvinegoni.github.io/contact/" target="_blank" rel="noopener noreferrer">Contact</a>
           </li>
 
           <!-- Contact -->
-          <!-- <a class="page-link" href="http://localhost:4003/contact/"><i
+          <!-- <a class="page-link" href="https://cvinegoni.github.iohttps://cvinegoni.github.io/contact/"><i
               class="fa fa-envelope-o"></i></a>
           -->
 
@@ -174,9 +174,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2022-NN/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2022-NN/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2022-NN.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2022-NN.jpg">
             
         <span>
             <h1>Cerebrospinal fluid can exit into the skull bone marrow and instruct cranial hematopoiesis in mice with bacterial meningitis</h1>
@@ -195,9 +195,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2022-NCR-2/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2022-NCR-2/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2022-NCR-2.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2022-NCR-2.jpg">
             
         <span>
             <h1>Neutrophils incite and macrophages avert electrical storm after myocardial infarction</h1>
@@ -216,9 +216,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2022-NCR-1/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2022-NCR-1/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2022-NCR-1.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2022-NCR-1.jpg">
             
         <span>
             <h1>Bone marrow endothelial dysfunction promotes myeloid cell expansion in cardiovascular disease</h1>
@@ -237,9 +237,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2022-NB/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2022-NB/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2022-NB.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2022-NB.jpg">
             
         <span>
             <h1>Spatiotemporal multiplexed immunofluorescence imaging of living cells and tissues with bioorthogonal cycling of fluorescent probes</h1>
@@ -258,9 +258,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2021-NATURE/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2021-NATURE/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2021-NATURE.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2021-NATURE.jpg">
             
         <span>
             <h1>Astrocytic interleukin-3 programs microglia and limits Alzheimer's disease</h1>
@@ -279,9 +279,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2020-STM/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2020-STM/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2020-STM.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2020-STM.jpg">
             
         <span>
             <h1>CytoPAN-Portable cellular analyses for rapid point-of-care cancer diagnosis</h1>
@@ -300,9 +300,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2020-SCIREP/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2020-SCIREP/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2020-SCIREP.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2020-SCIREP.jpg">
             
         <span>
             <h1>Fluorescence microscopy tensor imaging representations for large-scale dataset analysis</h1>
@@ -321,9 +321,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2020-JBO/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2020-JBO/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2020-JBO.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2020-JBO.jpg">
             
         <span>
             <h1>Extended dynamic range imaging for noise mitigation in fluorescence anisotropy imaging</h1>
@@ -342,9 +342,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2020-JAMCC/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2020-JAMCC/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2020-JAMCC.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2020-JAMCC.jpg">
             
         <span>
             <h1>Diminished Reactive Hematopoiesis and Cardiac Inflammation in a Mouse Model of Recurrent Myocardial Infarction</h1>
@@ -363,9 +363,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2019-NO/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2019-NO/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2019-NO.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2019-NO.jpg">
             
         <span>
             <h1>Characterization of single microvesicles in plasma from glioblastoma patients</h1>
@@ -384,9 +384,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2019-JSTQE/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2019-JSTQE/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2019-JSTQE.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2019-JSTQE.jpg">
             
         <span>
             <h1>High Dynamic Range Fluorescence Imaging</h1>
@@ -405,9 +405,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2019-ADDR/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2019-ADDR/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2019-ADDR.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2019-ADDR.jpg">
             
         <span>
             <h1>Fluorescence anisotropy imaging in drug discovery</h1>
@@ -426,9 +426,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2018-SCIREP/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2018-SCIREP/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2018-SCIREP.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2018-SCIREP.jpg">
             
         <span>
             <h1>The anti-tumor diterpene oridonin is a direct inhibitor of Nucleolin in cancer cells</h1>
@@ -447,9 +447,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2018-NATNEURO/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2018-NATNEURO/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2018-NATNEURO.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2018-NATNEURO.jpg">
             
         <span>
             <h1>Direct vascular channels connect skull bone marrow and the brain surface enabling myeloid cell migration</h1>
@@ -468,9 +468,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2018-JEM/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2018-JEM/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2018-JEM.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2018-JEM.jpg">
             
         <span>
             <h1>Cardiac macrophages promote diastolic dysfunction</h1>
@@ -489,9 +489,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2018-CIRCRES/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2018-CIRCRES/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2018-CIRCRES.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2018-CIRCRES.jpg">
             
         <span>
             <h1>Imaging the Vascular Bone Marrow Niche During Inflammatory Stress</h1>
@@ -510,9 +510,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2017-THERA/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2017-THERA/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2017-THERA.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2017-THERA.jpg">
             
         <span>
             <h1>Design and Development of Fluorescent Vemurafenib Analogs for In Vivo Imaging</h1>
@@ -531,9 +531,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2017-NP/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2017-NP/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2017-NP.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2017-NP.jpg">
             
         <span>
             <h1>Measurement of drug-target engagement in live cells by two-photon fluorescence anisotropy imaging</h1>
@@ -552,9 +552,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2017-NCBIOL/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2017-NCBIOL/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2017-NCBIOL.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2017-NCBIOL.jpg">
             
         <span>
             <h1>Quantitating drug-target engagement in single cells in vitro and in vivo</h1>
@@ -573,9 +573,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2017-JBO/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2017-JBO/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2017-JBO.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2017-JBO.jpg">
             
         <span>
             <h1>Motion characterization scheme to minimize motion artifacts in intravital microscopy</h1>
@@ -594,9 +594,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2017-CELL/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2017-CELL/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2017-CELL.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2017-CELL.jpg">
             
         <span>
             <h1>Macrophages Facilitate Electrical Conduction in the Heart</h1>
@@ -615,9 +615,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2017-ACSN/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2017-ACSN/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2017-ACSN.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2017-ACSN.jpg">
             
         <span>
             <h1>Transparent Electrophysiology Microelectrodes and Interconnects from Meta Nanomesh</h1>
@@ -636,9 +636,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2016-TECHNOL/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2016-TECHNOL/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2016-TECHNOL.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2016-TECHNOL.jpg">
             
         <span>
             <h1>Two-photon imaging of pancreatic beta cells in real time in vivo</h1>
@@ -657,9 +657,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2016-STM/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2016-STM/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2016-STM.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2016-STM.jpg">
             
         <span>
             <h1>RNAi targeting multiple cell adhesion molecules reduces immune cell recruitment and vascular inflammation after myocardial infarction</h1>
@@ -678,9 +678,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2016-SCIREP/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2016-SCIREP/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2016-SCIREP.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2016-SCIREP.jpg">
             
         <span>
             <h1>Computational imaging reveals mitochondrial morphology as a biomarker of cancer phenotype and drug response</h1>
@@ -699,9 +699,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2016-NCOMM-2/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2016-NCOMM-2/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2016-NCOMM-2.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2016-NCOMM-2.jpg">
             
         <span>
             <h1>Real-time high dynamic range laser scanning microscopy</h1>
@@ -720,9 +720,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2016-NCOMM-1/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2016-NCOMM-1/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2016-NCOMM-1.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2016-NCOMM-1.jpg">
             
         <span>
             <h1>Tyrosine kinase-mediated axial motility of basal cells revealed by intravital imaging</h1>
@@ -741,9 +741,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2016-IEEE/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2016-IEEE/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2016-IEEE.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2016-IEEE.jpg">
             
         <span>
             <h1>Two-Photon Fluorescence Anisotropy Microscopy for Imaging and Direct Measurement of Intracellular Drug Target Engagement</h1>
@@ -762,9 +762,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2015-SREP/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2015-SREP/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2015-SREP.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2015-SREP.jpg">
             
         <span>
             <h1>Rapid, high efficiency isolation of pancreatic beta-cells</h1>
@@ -783,9 +783,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2015-NPROT/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2015-NPROT/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2015-NPROT.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2015-NPROT.jpg">
             
         <span>
             <h1>Imaging the beating heart in the mouse using intravital microscopy techniques</h1>
@@ -804,9 +804,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2015-FPHYS/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2015-FPHYS/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2015-FPHYS.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2015-FPHYS.jpg">
             
         <span>
             <h1>New techniques for motion-artifact-free in vivo cardiac microscopy</h1>
@@ -825,9 +825,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2015-DDT/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2015-DDT/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2015-DDT.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2015-DDT.jpg">
             
         <span>
             <h1>Advances in measuring single-cell pharmacology in vivo</h1>
@@ -846,9 +846,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2015-CSC/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2015-CSC/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2015-CSC.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2015-CSC.jpg">
             
         <span>
             <h1>Myocardial Infarction Activates CCR2(+) Hematopoietic Stem and Progenitor Cells</h1>
@@ -867,9 +867,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2014-SR/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2014-SR/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2014-SR.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2014-SR.jpg">
             
         <span>
             <h1>Automated motion artifact removal for intravital microscopy, without a priori information</h1>
@@ -888,9 +888,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2014-PNAS/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2014-PNAS/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2014-PNAS.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2014-PNAS.jpg">
             
         <span>
             <h1>Intravital imaging of cardiac function at the single-cell level</h1>
@@ -909,9 +909,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2014-OL/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2014-OL/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2014-OL.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2014-OL.jpg">
             
         <span>
             <h1>Steady state anisotropy two-photon microscopy resolves multiple, spectrally similar fluorophores, enabling in vivo multilabel imaging</h1>
@@ -930,9 +930,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2014-NM/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2014-NM/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2014-NM.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2014-NM.jpg">
             
         <span>
             <h1>Chronic variable stress activates hematopoietic stem cells</h1>
@@ -951,9 +951,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2014-NC/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2014-NC/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2014-NC.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2014-NC.jpg">
             
         <span>
             <h1>In vivo imaging of specific drug-target binding at subcellular resolution</h1>
@@ -972,9 +972,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2014-IEEE/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2014-IEEE/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2014-IEEE.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2014-IEEE.jpg">
             
         <span>
             <h1>Advanced Motion Compensation Methods for Intravital Optical Microscopy</h1>
@@ -993,9 +993,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2013-JHGD/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2013-JHGD/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2013-JHGD.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2013-JHGD.jpg">
             
         <span>
             <h1>Perinatal health and translational medicine</h1>
@@ -1014,9 +1014,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2013-BOE/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2013-BOE/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2013-BOE.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2013-BOE.jpg">
             
         <span>
             <h1>Sequential average segmented microscopy for high signal-to-noise ratio motion-artifact-free in vivo heart imaging</h1>
@@ -1035,9 +1035,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2013-BIOPHTNCS/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2013-BIOPHTNCS/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2013-BIOPHTNCS.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2013-BIOPHTNCS.jpg">
             
         <span>
             <h1>Noise suppressed, multifocus image fusion for enhanced intraoperative navigation</h1>
@@ -1056,9 +1056,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2012-PNAS/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2012-PNAS/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2012-PNAS.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2012-PNAS.jpg">
             
         <span>
             <h1>Implantable microenvironments to attract hematopoietic stem/cancer cells</h1>
@@ -1077,9 +1077,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2012-PLOSONE/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2012-PLOSONE/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2012-PLOSONE.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2012-PLOSONE.jpg">
             
         <span>
             <h1>Mapping Molecular Agents Distributions in Whole Mice Hearts Using Born-Normalized Optical Projection Tomography</h1>
@@ -1098,9 +1098,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2012-NEOPLASIA/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2012-NEOPLASIA/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2012-NEOPLASIA.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2012-NEOPLASIA.jpg">
             
         <span>
             <h1>Imaging Therapeutic PARP Inhibition In Vivo through Bioorthogonally Developed Companion Imaging Agents</h1>
@@ -1119,9 +1119,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2012-NC/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2012-NC/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2012-NC.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2012-NC.jpg">
             
         <span>
             <h1>Real-time in vivo imaging of the beating mouse heart at microscopic resolution</h1>
@@ -1140,9 +1140,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2012-NATURE/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2012-NATURE/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2012-NATURE.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2012-NATURE.jpg">
             
         <span>
             <h1>Myocardial infarction accelerates atherosclerosis</h1>
@@ -1161,9 +1161,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2012-JBO/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2012-JBO/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2012-JBO.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2012-JBO.jpg">
             
         <span>
             <h1>Improved intravital microscopy via synchronization of respiration and holder stabilization</h1>
@@ -1182,9 +1182,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2012-JACC/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2012-JACC/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2012-JACC.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2012-JACC.jpg">
             
         <span>
             <h1>PET/MRI of Inflammation in Myocardial Infarction</h1>
@@ -1203,9 +1203,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2012-INTRVTL/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2012-INTRVTL/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2012-INTRVTL.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2012-INTRVTL.jpg">
             
         <span>
             <h1>Motion compensation using a suctioning stabilizer for intravital microscopy</h1>
@@ -1224,9 +1224,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2012-CPB/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2012-CPB/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2012-CPB.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2012-CPB.jpg">
             
         <span>
             <h1>Deep Tissue Optical and Optoacoustic Molecular Imaging Technologies for Pre-Clinical Research and Drug Discovery</h1>
@@ -1245,9 +1245,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2012-CNCRRES/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2012-CNCRRES/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2012-CNCRRES.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2012-CNCRRES.jpg">
             
         <span>
             <h1>In Vivo Imaging of Drug-Induced Mitochondrial Outer Membrane Permeabilization at Single-Cell Resolution</h1>
@@ -1266,9 +1266,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2012-BIOCHEM/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2012-BIOCHEM/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2012-BIOCHEM.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2012-BIOCHEM.jpg">
             
         <span>
             <h1>Optochemogenetics (OCG) Allows More Precise Control of Genetic Engineering in Mice with CreER regulators</h1>
@@ -1287,9 +1287,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2012-AC/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2012-AC/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2012-AC.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2012-AC.jpg">
             
         <span>
             <h1>Bioorthogonal Imaging of Aurora Kinase A in Live Cells</h1>
@@ -1308,9 +1308,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2011-STM/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2011-STM/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2011-STM.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2011-STM.jpg">
             
         <span>
             <h1>Indocyanine Green Enables Near-Infrared Fluorescence Imaging of Lipid-Rich, Inflamed Atherosclerotic Plaques</h1>
@@ -1329,9 +1329,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2011-PNAS/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2011-PNAS/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2011-PNAS.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2011-PNAS.jpg">
             
         <span>
             <h1>Accurate measurement of pancreatic islet beta-cell mass using a second-generation fluorescent exendin-4 analog</h1>
@@ -1350,9 +1350,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2011-EB/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2011-EB/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2011-EB.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2011-EB.jpg">
             
         <span>
             <h1>A multimodal approach for tracing lateralisation along the olfactory pathway in the honeybee through electrophysiological recordings, morpho-functional imaging, and behavioural studies</h1>
@@ -1371,9 +1371,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2011-BBR/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2011-BBR/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2011-BBR.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2011-BBR.jpg">
             
         <span>
             <h1>Searching for anatomical correlates of olfactory lateralization in the honeybee antennal lobes: A morphological and behavioural study</h1>
@@ -1392,9 +1392,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2010-WJS/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2010-WJS/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2010-WJS.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2010-WJS.jpg">
             
         <span>
             <h1>Intraoperative Near-infrared Fluorescent Cholangiography (NIRFC) in Mouse Models of Bile Duct Injury: Reply</h1>
@@ -1413,9 +1413,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2010-BOEX/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2010-BOEX/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2010-BOEX.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2010-BOEX.jpg">
             
         <span>
             <h1>In-vivo two-photon imaging of the honey bee antennal lobe</h1>
@@ -1434,9 +1434,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2010-PNAS/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2010-PNAS/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2010-PNAS.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2010-PNAS.jpg">
             
         <span>
             <h1>Hybrid PET-optical imaging using targeted probes</h1>
@@ -1455,9 +1455,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2010-PMB/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2010-PMB/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2010-PMB.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2010-PMB.jpg">
             
         <span>
             <h1>Block matching 3D random noise filtering for absorption optical projection tomography</h1>
@@ -1476,9 +1476,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2010-OL/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2010-OL/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2010-OL.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2010-OL.jpg">
             
         <span>
             <h1>Imaging of molecular probe activity with Born-normalized fluorescence optical projection tomography</h1>
@@ -1497,9 +1497,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2010-JBO/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2010-JBO/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2010-JBO.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2010-JBO.jpg">
             
         <span>
             <h1>Intravascular near-infrared fluorescence molecular imaging of atherosclerosis: toward coronary arterial visualization of biologically high-risk plaques</h1>
@@ -1518,9 +1518,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2010-CB/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2010-CB/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2010-CB.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2010-CB.jpg">
             
         <span>
             <h1>WNT5A/JNK and FGF/MAPK Pathways Regulate the Cellular Events Shaping the Vertebrate Limb Bud</h1>
@@ -1539,9 +1539,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2009-PMB/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2009-PMB/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2009-PMB.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2009-PMB.jpg">
             
         <span>
             <h1>Imaging of mesoscopic-scale organisms using selective-plane optoacoustic tomography</h1>
@@ -1560,9 +1560,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2009-OL-2/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2009-OL-2/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2009-OL-2.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2009-OL-2.jpg">
             
         <span>
             <h1>Normalized Born ratio for fluorescence optical projection tomography</h1>
@@ -1581,9 +1581,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2009-OL-1/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2009-OL-1/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2009-OL-1.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2009-OL-1.jpg">
             
         <span>
             <h1>Transillumination fluorescence imaging in mice using biocompatible upconverting nanoparticles</h1>
@@ -1602,9 +1602,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2009-OE-2/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2009-OE-2/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2009-OE-2.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2009-OE-2.jpg">
             
         <span>
             <h1>Diffractionless beam in free space with adiabatic changing refractive index in a single mode tapered slab waveguide</h1>
@@ -1623,9 +1623,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2009-OE-1/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2009-OE-1/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2009-OE-1.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2009-OE-1.jpg">
             
         <span>
             <h1>High throughput transmission optical projection tomography using low cost graphics processing unit</h1>
@@ -1644,9 +1644,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2009-NATPHOT/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2009-NATPHOT/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2009-NATPHOT.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2009-NATPHOT.jpg">
             
         <span>
             <h1>Multispectral opto-acoustic tomography of deep-seated fluorescent proteins in vivo</h1>
@@ -1665,9 +1665,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2009-JOVE-2/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2009-JOVE-2/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2009-JOVE-2.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2009-JOVE-2.jpg">
             
         <span>
             <h1>Mesoscopic Fluorescence Tomography for In-vivo Imaging of Developing Drosophila</h1>
@@ -1686,9 +1686,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2009-JOVE-1/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2009-JOVE-1/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2009-JOVE-1.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2009-JOVE-1.jpg">
             
         <span>
             <h1>Born normalization for fluorescence optical projection tomography for whole heart imaging</h1>
@@ -1707,9 +1707,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2009-BOW/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2009-BOW/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2009-BOW.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2009-BOW.jpg">
             
         <span>
             <h1>Unprecedent in vivo views at the mesoscopic scale</h1>
@@ -1728,9 +1728,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2008-OL/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2008-OL/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2008-OL.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2008-OL.jpg">
             
         <span>
             <h1>Polarization-sensitive optoacoustic tomography of optically diffuse tissues</h1>
@@ -1749,9 +1749,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2008-NM/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2008-NM/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2008-NM.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2008-NM.jpg">
             
         <span>
             <h1>In vivo imaging of Drosophila melanogaster pupae with mesoscopic fluorescence tomography</h1>
@@ -1770,9 +1770,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2008-JCI/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2008-JCI/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2008-JCI.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2008-JCI.jpg">
             
         <span>
             <h1>Real-time assessment of inflammation and treatment response in a mouse model of allergic airway inflammation</h1>
@@ -1791,9 +1791,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2008-CRCLT/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2008-CRCLT/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2008-CRCLT.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2008-CRCLT.jpg">
             
         <span>
             <h1>Real-Time Catheter Molecular Sensing of Inflammation in Proteolytically Active Atherosclerosis</h1>
@@ -1812,9 +1812,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2007-OL/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2007-OL/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2007-OL.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2007-OL.jpg">
             
         <span>
             <h1>Multispectral photoacoustic imaging of fluorochromes in small animals</h1>
@@ -1833,9 +1833,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2007-MRT/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2007-MRT/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2007-MRT.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2007-MRT.jpg">
             
         <span>
             <h1>Imaging cellular responses to mechanical stimuli within three-dimensional tissue constructs</h1>
@@ -1854,9 +1854,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2006-OL-2/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2006-OL-2/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2006-OL-2.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2006-OL-2.jpg">
             
         <span>
             <h1>High-spectral-resolution coherent anti-Stokes Raman scattering with interferometric ally detected broadband chirped pulses</h1>
@@ -1875,9 +1875,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2006-OL-1/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2006-OL-1/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2006-OL-1.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2006-OL-1.jpg">
             
         <span>
             <h1>Spectroscopic spectral-domain optical coherence microscopy</h1>
@@ -1896,9 +1896,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2006-APL/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2006-APL/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2006-APL.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2006-APL.jpg">
             
         <span>
             <h1>Integrated structural and functional optical imaging combining spectral-domain optical coherence and multiphoton microscopy</h1>
@@ -1917,9 +1917,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2005-OPN/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2005-OPN/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2005-OPN.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2005-OPN.jpg">
             
         <span>
             <h1>Nonlinear Interferometric Vibrational Imaging. efficient detection of Coherent Anti-Stokes Raman Scattering</h1>
@@ -1938,9 +1938,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2005-OL/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2005-OL/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2005-OL.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2005-OL.jpg">
             
         <span>
             <h1>Molecularly sensitive optical coherence tomography</h1>
@@ -1959,9 +1959,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2004-OE/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2004-OE/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2004-OE.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2004-OE.jpg">
             
         <span>
             <h1>Nonlinear optical contrast enhancement for optical coherence tomography</h1>
@@ -1980,9 +1980,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2004-JLT/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2004-JLT/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2004-JLT.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2004-JLT.jpg">
             
         <span>
             <h1>The statistics of polarization-dependent loss in a recirculating loop</h1>
@@ -2001,9 +2001,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2004-APL/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2004-APL/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2004-APL.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2004-APL.jpg">
             
         <span>
             <h1>Interferometric differentiation between resonant coherent anti-Stokes Raman scattering and nonresonant four-wave-mixing processes</h1>
@@ -2022,9 +2022,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2003-PTL-2/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2003-PTL-2/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2003-PTL-2.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2003-PTL-2.jpg">
             
         <span>
             <h1>Distributed measurements of chromatic dispersion and nonlinear coefficient in low-PMD dispersion-shifted fibers</h1>
@@ -2043,9 +2043,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2003-PTL-1/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2003-PTL-1/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2003-PTL-1.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2003-PTL-1.jpg">
             
         <span>
             <h1>Statistics of PMD in recirculating loops</h1>
@@ -2064,9 +2064,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2002-PTL/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2002-PTL/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2002-PTL.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2002-PTL.jpg">
             
         <span>
             <h1>Emulator of first- and second-order polarization-mode dispersion</h1>
@@ -2085,9 +2085,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2001-PTL-2/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2001-PTL-2/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2001-PTL-2.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2001-PTL-2.jpg">
             
         <span>
             <h1>Analysis of the polarization evolution in a ribbon cable using high-resolution coherent OFDR</h1>
@@ -2106,9 +2106,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2001-PTL-1/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2001-PTL-1/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2001-PTL-1.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2001-PTL-1.jpg">
             
         <span>
             <h1>Measurements of the nonlinear coefficient of standard SMF, DSF, and DCF fibers using a self-aligned interferometer and a Faraday mirror</h1>
@@ -2127,9 +2127,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2000-SCT/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2000-SCT/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2000-SCT.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2000-SCT.jpg">
             
         <span>
             <h1>Morphological and optical characterization of GaN prepared by pulsed laser deposition</h1>
@@ -2148,9 +2148,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2000-PRB/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2000-PRB/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2000-PRB.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2000-PRB.jpg">
             
         <span>
             <h1>Optical absorption and photoluminescence properties of alpha-Si1-xNx : H films deposited by plasma-enhanced CVD</h1>
@@ -2169,9 +2169,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2000-OC/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2000-OC/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2000-OC.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2000-OC.jpg">
             
         <span>
             <h1>All optical switching in a highly birefringent and a standard telecom fiber using a Faraday mirror stabilization scheme</h1>
@@ -2190,9 +2190,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2000-JOA/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2000-JOA/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2000-JOA.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2000-JOA.jpg">
             
         <span>
             <h1>Measurement of nonlinear polarization rotation in a highly birefringent optical fibre using a Faraday mirror</h1>
@@ -2211,9 +2211,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2000-JLT/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2000-JLT/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2000-JLT.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2000-JLT.jpg">
             
         <span>
             <h1>Distributed gain measurements in Er-doped fibers with high resolution and accuracy using an optical frequency domain reflectometer</h1>
@@ -2232,9 +2232,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/2000-EL/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/2000-EL/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/2000-EL.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/2000-EL.jpg">
             
         <span>
             <h1>Determination of nonlinear coefficient n(2)/A(eff) using self-aligned interferometer and Faraday mirror</h1>
@@ -2253,9 +2253,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/1999-SSI/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/1999-SSI/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/1999-SSI.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/1999-SSI.jpg">
             
         <span>
             <h1>Raman study of the phase transitions sequence in pure WO3 at high temperature and in HxWO3 with variable hydrogen content</h1>
@@ -2274,9 +2274,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/1999-PRB/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/1999-PRB/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/1999-PRB.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/1999-PRB.jpg">
             
         <span>
             <h1>Luminescence processes in amorphous hydrogenated silicon-nitride nanometric multilayers</h1>
@@ -2295,9 +2295,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/1999-MSEB/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/1999-MSEB/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/1999-MSEB.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/1999-MSEB.jpg">
             
         <span>
             <h1>Luminescent properties of GaN thin films prepared by pulsed laser deposition</h1>
@@ -2316,9 +2316,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/1999-JSSC/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/1999-JSSC/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/1999-JSSC.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/1999-JSSC.jpg">
             
         <span>
             <h1>Low-temperature polymorphism in tungsten trioxide powders and its dependence on mechanical treatments</h1>
@@ -2337,9 +2337,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/1999-JAP/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/1999-JAP/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/1999-JAP.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/1999-JAP.jpg">
             
         <span>
             <h1>Temperature dependence of the photoluminescence of all-porous-silicon optical microcavities</h1>
@@ -2358,9 +2358,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/1999-INCS/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/1999-INCS/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/1999-INCS.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/1999-INCS.jpg">
             
         <span>
             <h1>Color Centres and Polymorphism in Pure WO(3) and Mixed (1-x)WO(3-y)center dot xReO(2) Powders</h1>
@@ -2379,9 +2379,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/1999-DRM/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/1999-DRM/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/1999-DRM.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/1999-DRM.jpg">
             
         <span>
             <h1>Raman spectroscopy and scanning electron microscopy investigation of annealed amorphous carbon-germanium films deposited by d.c. magnetron sputtering</h1>
@@ -2400,9 +2400,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/1999-APL/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/1999-APL/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/1999-APL.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/1999-APL.jpg">
             
         <span>
             <h1>Resonant second harmonic generation in ZnSe bulk microcavity</h1>
@@ -2421,9 +2421,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/1998-JL/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/1998-JL/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/1998-JL.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/1998-JL.jpg">
             
         <span>
             <h1>Radiative emission properties of a-SiN : H based nanometric multilayers for light emitting devices</h1>
@@ -2442,9 +2442,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/1998-JAP/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/1998-JAP/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/1998-JAP.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/1998-JAP.jpg">
             
         <span>
             <h1>X-ray diffraction, extended x-ray absorption fine structure and Raman spectroscopy studies of WO3 powders and, (1-x)WO3-y center dot xReO(2) mixtures</h1>
@@ -2463,9 +2463,9 @@
 
 <div class="project ">
     <div class="thumbnail">
-        <a href="http://localhost:4003/papersgallery/1998-APL/">
+        <a href="https://cvinegoni.github.iohttps://cvinegoni.github.io/papersgallery/1998-APL/" target="_blank" rel="noopener noreferrer">
         
-        <img class="thumbnail" src="http://localhost:4003/assets/img/papers/extract/1998-APL.jpg">
+        <img class="thumbnail" src="https://cvinegoni.github.iohttps://cvinegoni.github.io/assets/img/papers/extract/1998-APL.jpg">
             
         <span>
             <h1>Photoluminescence of localized excitons in pulsed-laser-deposited GaN</h1>
@@ -2489,7 +2489,7 @@
     <footer class="fixed-bottom">
       <div class="container mt-0">
         © Copyright 2022 Claudio  Vinegoni. Powered by <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a>. Hosted by <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>.
-Last updated: August 23, 2022.
+Last updated: August 25, 2022.
       </div>
     </footer>
 
@@ -2505,12 +2505,12 @@ Last updated: August 23, 2022.
     <!-- Masonry & imagesLoaded -->
   <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
   <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-  <script defer src="/assets/js/masonry.js" type="text/javascript"></script>
+  <script defer src="/https://cvinegoni.github.io/assets/js/masonry.js" type="text/javascript"></script>
     
   <!-- Medium Zoom JS -->
   <script src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.6/dist/medium-zoom.min.js" integrity="sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM=" crossorigin="anonymous"></script>
-  <script src="/assets/js/zoom.js"></script><!-- Load Common JS -->
-  <script src="/assets/js/common.js"></script>
+  <script src="/https://cvinegoni.github.io/assets/js/zoom.js"></script><!-- Load Common JS -->
+  <script src="/https://cvinegoni.github.io/assets/js/common.js"></script>
 
     <!-- MathJax -->
   <script type="text/javascript">
