@@ -1,1577 +1,3483 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<!--	created with www.mysitemapgenerator.com -->
+
+-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 
-<url>
-  <loc>https://cvinegoni.github.io/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/cv/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projects/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/diffpubs/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papers/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/preprints/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/proceedings/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/books/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/patents/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/thesis/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/metrics/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/nicepub/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projectscards/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/timeline/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/workingprojects/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/contact/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/cv/CurriculumVitae.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2020-SCIREP/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2020-SCIREP.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2019-ADDR/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2019-ADDR.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2017-NCBIOL/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2017-NCBIOL.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2017-NP/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2017-NP.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2016-NCOMM-2/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2016-NCOMM-2.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2015-DDT/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2015-DDT.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2015-NPROT/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2015-NPROT.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2014-PNAS/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2014-PNAS.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2014-NC/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2014-NC.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2012-NC/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2012-NC.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2011-STM/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2011-STM.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2009-NATPHOT/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2009-NATPHOT.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2008-NM/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2008-NM.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2020-BIBE.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/cv/Resume.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/cv_embed/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2019-JSTQE.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/2022/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2016-IEEE.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/index.html</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/page/2/index.html</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/page/3/index.html</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/page/2/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projects/microscopy/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projects/wholeorgan/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projects/tomography/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projects/oct/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projects/ai/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projects/intravitalimaging/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projects/drugimaging/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projects/biomedical/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projects/motioncompensation/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projects/highcontent/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projects/imageprocessing/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projects/cardiovascular/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projects/systemsbiology/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projects/metrology/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projects/telecom/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projects/spectroscopy/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/projects/raman/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2022-NCR-2/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2022-NCR-2.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2022-NB/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2022-NB.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2022-NN/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2022-NCR-1/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2022-NCR-1.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2021-NATURE/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2021-NATURE.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2020-JAMCC/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2020-JAMCC.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2020-JBO/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2020-JBO.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2020-STM/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2020-STM.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2019-NO/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2019-NO.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2019-JSTQE/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2018-NATNEURO/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2018-NATNEURO.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2018-JEM/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2018-JEM.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2018-CIRCRES/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2018-CIRCRES.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2018-SCIREP/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2018-SCIREP.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2017-CELL/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2017-CELL.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2017-JBO/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2017-JBO.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2017-THERA/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2017-THERA.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2017-ACSN/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2017-ACSN.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2016-TECHNOL/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2016-TECHNOL.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2016-SCIREP/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2016-SCIREP.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2016-NCOMM-1/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2016-NCOMM-1.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2016-STM/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2016-STM.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2016-IEEE/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2015-SREP/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2015-SREP.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2015-CSC/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2015-CSC.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2015-FPHYS/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2015-FPHYS.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2014-OL/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2014-OL.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2014-NM/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2014-NM.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2014-SR/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2014-SR.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2014-IEEE/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2014-IEEE.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2013-JHGD/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2013-JHGD.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2013-BIOPHTNCS/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2013-BIOPHTNCS.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2013-BOE/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2013-BOE.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2012-NATURE/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2012-NATURE.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2012-CNCRRES/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2012-CNCRRES.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2012-PNAS/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2012-PNAS.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2012-JACC/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2012-JACC.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2012-JBO/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2012-JBO.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2012-BIOCHEM/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2012-BIOCHEM.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2012-CPB/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2012-CPB.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2012-NEOPLASIA/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2012-NEOPLASIA.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2012-PLOSONE/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2012-PLOSONE.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2012-INTRVTL/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2012-INTRVTL.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2012-AC/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2012-AC.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2010-WJS/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2010-WJS.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2011-EB/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2011-EB.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2010-BOEX/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2010-BOEX.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2011-PNAS/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2011-PNAS.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2011-BBR/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2011-BBR.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2010-JBO/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2010-JBO.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2010-PMB/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2010-PMB.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2010-CB/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2010-CB.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2010-PNAS/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2010-PNAS.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2010-OL/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2010-OL.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2009-BOW/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2009-BOW.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2009-PMB/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2009-PMB.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2009-OE-2/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2009-OE-2.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2009-OE-1/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2009-OE-1.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2009-JOVE-1/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2009-JOVE-1.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2009-OL-2/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2009-OL-2.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2009-JOVE-2/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2009-JOVE-2.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2009-OL-1/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2009-OL-1.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2008-JCI/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2008-JCI.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2008-CRCLT/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2008-CRCLT.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2008-OL/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2008-OL.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2007-OL/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2007-OL.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2007-MRT/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2007-MRT.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2006-OL-2/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2006-OL-2.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2006-APL/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2006-APL.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2006-OL-1/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2006-OL-1.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2005-OL/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2005-OL.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2005-OPN/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2005-OPN.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2004-APL/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2004-APL.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2004-OE/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2004-JLT/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2004-JLT.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2003-PTL-1/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2003-PTL-1.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2003-PTL-2/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2003-PTL-2.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2002-PTL/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2002-PTL.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2001-PTL-1/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2001-PTL-1.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2001-PTL-2/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2001-PTL-2.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2000-PRB/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2000-PRB.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2000-SCT/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2000-SCT.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2000-EL/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2000-EL.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2000-OC/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2000-OC.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2000-JOA/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2000-JOA.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/2000-JLT/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2000-JLT.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/1999-JSSC/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/1999-JSSC.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/1999-MSEB/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/1999-MSEB.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/1999-JAP/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/1999-JAP.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/1999-INCS/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/1999-INCS.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/1999-SSI/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/1999-SSI.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/1999-PRB/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/1999-PRB.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/1999-DRM/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/1999-DRM.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/1999-APL/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/1999-APL.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/1998-APL/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/1998-APL.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/1998-JL/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/1998-JL.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/papersgallery/1998-JAP/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/1998-JAP.pdf</loc>
-  <lastmod>2022-09-08T14:46:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2022-NN.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2011-SPIE.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2010-SPIE.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2009-BIOS-2.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2009-BIOS-1.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2008-SPIE.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2006-BIOSA.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2006-SPIE.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2005-SPIE-2.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2005-SPIE-1.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2005-BIOS.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2004-OSA-1.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2004-LEOS.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2004-SPIE-1.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2004-SPIE-2.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2004-EMBS.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2004-OSA-2.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2003-ECOC-2.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2003-ECOC-1.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2002-PN.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2002-NIST.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2002-OFC.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2001-OFC.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2001-OFMC-1.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2001-OFMC-2.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2000-NIST-1.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2000-CLEO.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2000-ICTON.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2000-NOISE.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/2000-NIST-2.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/1998-ECSI.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/1998-EMRS.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/proceedings/1998-SPIE.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/papers/2017-PATENT01.pdf</loc>
-  <lastmod>2022-09-08T14:46:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/publications/thesis/Thesis-MSc.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/publications/thesis/Thesis-PHD.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/assets/pdf/slides/Thesis-PHD-Talk.pdf</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/workingprojects/SR/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/2022/JSTQE-2019/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/2022/IEEE-2016/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/2022/DDT-2015/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/2022/ADDR-2019/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/2022/FPHYS-2015/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/2022/IEEE-2014/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/page/3/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/2021/twitter-MN/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/2021/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/tag/formatting/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/category/sample-posts/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/category/external-services/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://cvinegoni.github.io/blog/2021/twitter-RW/</loc>
-  <lastmod>2022-09-08T14:46:44+00:00</lastmod>
-  <priority>0.51</priority>
+-<url>
+
+<loc>https://cvinegoni.github.io/</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>1.0</priority>
+
 </url>
 
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projects/</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/diffpubs/</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papers/</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/preprints/</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/proceedings/</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/books/</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/patents/</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/thesis/</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/metrics/</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/nicepub/</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projectscards/</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/cv/</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/timeline/</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/workingprojects/</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/contact/</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/cv/CurriculumVitae.pdf</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2020-SCIREP.pdf</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2019-ADDR.pdf</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2017-NCBIOL.pdf</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2017-NP.pdf</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2016-NCOMM-2.pdf</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2015-DDT.pdf</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2015-NPROT.pdf</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2014-PNAS.pdf</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2014-NC.pdf</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2012-NC.pdf</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2011-STM.pdf</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2009-NATPHOT.pdf</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2008-NM.pdf</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2020-BIBE.pdf</loc>
+
+<lastmod>2022-09-09T17:21:39+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2019-JSTQE.pdf</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/2022</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2016-IEEE.pdf</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/page/3/index.html</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/page/2/</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projects/microscopy/</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projects/wholeorgan/</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projects/tomography/</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projects/oct/</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projects/ai/</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projects/intravitalimaging/</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projects/drugimaging/</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projects/biomedical/</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projects/motioncompensation/</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projects/highcontent/</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projects/imageprocessing/</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projects/cardiovascular/</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projects/systemsbiology/</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projects/metrology/</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projects/telecom/</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projects/spectroscopy/</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/projects/raman/</loc>
+
+<lastmod>2022-09-09T17:21:41+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2022-NCR-2.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2022-NB.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2022-NCR-1.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2021-NATURE.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2020-JAMCC.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2020-JBO.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2020-STM.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2019-NO.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2018-NATNEURO.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2018-JEM.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2018-CIRCRES.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2018-SCIREP.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2017-CELL.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2017-JBO.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2017-THERA.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2017-ACSN.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2016-TECHNOL.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2016-SCIREP.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2016-NCOMM-1.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2016-STM.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2015-SREP.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2015-CSC.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2015-FPHYS.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2014-OL.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2014-NM.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2014-SR.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2014-IEEE.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2013-JHGD.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2013-BIOPHTNCS.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2013-BOE.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2012-NATURE.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2012-CNCRRES.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2012-PNAS.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2012-JACC.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2012-JBO.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2012-BIOCHEM.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2012-CPB.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2012-NEOPLASIA.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2012-PLOSONE.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2012-INTRVTL.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2012-AC.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2010-WJS.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2011-EB.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2010-BOEX.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2011-PNAS.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2011-BBR.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2010-JBO.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2010-PMB.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2010-CB.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2010-PNAS.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2010-OL.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2009-BOW.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2009-PMB.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2009-OE-2.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2009-OE-1.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2009-JOVE-1.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2009-OL-2.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2009-JOVE-2.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2009-OL-1.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2008-JCI.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2008-CRCLT.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2008-OL.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2007-OL.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2007-MRT.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2006-OL-2.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2006-APL.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2006-OL-1.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2005-OL.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2005-OPN.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2004-APL.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2004-JLT.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2003-PTL-1.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2003-PTL-2.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2002-PTL.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2001-PTL-1.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2001-PTL-2.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2000-PRB.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2000-SCT.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2000-EL.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2000-OC.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2000-JOA.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2000-JLT.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/1999-JSSC.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/1999-MSEB.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/1999-JAP.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/1999-INCS.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/1999-SSI.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/1999-PRB.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/1999-DRM.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/1999-APL.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/1998-APL.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/1998-JL.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/1998-JAP.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2011-SPIE.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2010-SPIE.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2009-BIOS-2.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2009-BIOS-1.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2008-SPIE.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2006-BIOSA.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2006-SPIE.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2005-SPIE-2.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2005-SPIE-1.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2005-BIOS.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2004-OSA-1.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2004-LEOS.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2004-SPIE-1.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2004-SPIE-2.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2004-EMBS.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2004-OSA-2.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2003-ECOC-2.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2003-ECOC-1.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2002-PN.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2002-NIST.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2002-OFC.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2001-OFC.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2001-OFMC-1.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2001-OFMC-2.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2000-NIST-1.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2000-CLEO.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2000-ICTON.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2000-NOISE.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/2000-NIST-2.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/1998-ECSI.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/1998-EMRS.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/proceedings/1998-SPIE.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/papers/2017-PATENT01.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/publications/thesis/Thesis-MSc.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/publications/thesis/Thesis-PHD.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/slides/Thesis-PHD-Talk.pdf</loc>
+
+<lastmod>2022-09-09T17:21:42+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2022-NN/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2022-NCR-2/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2022-NCR-1/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2022-NB/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2021-NATURE/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2020-STM/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2020-SCIREP/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2020-JBO/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2020-JAMCC/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2019-NO/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2019-JSTQE/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2019-ADDR/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2018-SCIREP/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2018-NATNEURO/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2018-JEM/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2018-CIRCRES/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2017-THERA/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2017-NP/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2017-NCBIOL/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2017-JBO/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2017-CELL/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2017-ACSN/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2016-TECHNOL/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2016-STM/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2016-SCIREP/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2016-NCOMM-2/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2016-NCOMM-1/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2016-IEEE/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2015-SREP/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2015-NPROT/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2015-FPHYS/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2015-DDT/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2015-CSC/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2014-SR/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2014-PNAS/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2014-OL/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2014-NM/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2014-NC/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2014-IEEE/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2013-JHGD/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2013-BOE/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2013-BIOPHTNCS/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2012-PNAS/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2012-PLOSONE/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2012-NEOPLASIA/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2012-NC/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2012-NATURE/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2012-JBO/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2012-JACC/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2012-INTRVTL/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2012-CPB/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2012-CNCRRES/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2012-BIOCHEM/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2012-AC/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2011-STM/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2011-PNAS/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2011-EB/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2011-BBR/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2010-WJS/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2010-BOEX/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2010-PNAS/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2010-PMB/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2010-OL/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2010-JBO/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2010-CB/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2009-PMB/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2009-OL-2/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2009-OL-1/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2009-OE-2/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2009-OE-1/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2009-NATPHOT/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2009-JOVE-2/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2009-JOVE-1/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2009-BOW/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2008-OL/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2008-NM/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2008-JCI/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2008-CRCLT/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2007-OL/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2007-MRT/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2006-OL-2/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2006-OL-1/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2006-APL/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2005-OPN/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2005-OL/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2004-OE/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2004-JLT/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2004-APL/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2003-PTL-2/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2003-PTL-1/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2002-PTL/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2001-PTL-2/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2001-PTL-1/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2000-SCT/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2000-PRB/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2000-OC/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2000-JOA/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2000-JLT/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/2000-EL/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/1999-SSI/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/1999-PRB/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/1999-MSEB/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/1999-JSSC/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/1999-JAP/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/1999-INCS/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/1999-DRM/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/1999-APL/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/1998-JL/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/1998-JAP/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/papersgallery/1998-APL/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/assets/pdf/cv/Resume.pdf</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/cv_embed</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/workingprojects/SR/</loc>
+
+<lastmod>2022-09-09T17:21:43+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/2022/</loc>
+
+<lastmod>2022-09-09T17:21:53+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/2022/JSTQE-2019/</loc>
+
+<lastmod>2022-09-09T17:21:53+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/2022/IEEE-2016/</loc>
+
+<lastmod>2022-09-09T17:21:53+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/2022/DDT-2015/</loc>
+
+<lastmod>2022-09-09T17:21:53+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/2022/ADDR-2019/</loc>
+
+<lastmod>2022-09-09T17:21:53+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/2022/FPHYS-2015/</loc>
+
+<lastmod>2022-09-09T17:21:53+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/2022/IEEE-2014/</loc>
+
+<lastmod>2022-09-09T17:21:53+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/page/3/</loc>
+
+<lastmod>2022-09-09T17:21:53+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/2021/twitter-MN/</loc>
+
+<lastmod>2022-09-09T17:21:53+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/2021</loc>
+
+<lastmod>2022-09-09T17:21:53+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/tag/formatting</loc>
+
+<lastmod>2022-09-09T17:21:53+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/category/sample-posts</loc>
+
+<lastmod>2022-09-09T17:21:53+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/category/external-services</loc>
+
+<lastmod>2022-09-09T17:21:53+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/2021/twitter-RW/</loc>
+
+<lastmod>2022-09-09T17:21:53+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/cv_embed/</loc>
+
+<lastmod>2022-09-09T17:23:07+01:00</lastmod>
+
+<priority>0.8</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/2021/</loc>
+
+<lastmod>2022-09-09T17:23:08+01:00</lastmod>
+
+<priority>0.6</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/category/sample-posts/</loc>
+
+<lastmod>2022-09-09T17:23:08+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/category/external-services/</loc>
+
+<lastmod>2022-09-09T17:23:08+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
+
+
+-<url>
+
+<loc>https://cvinegoni.github.io/blog/tag/formatting/</loc>
+
+<lastmod>2022-09-09T17:23:08+01:00</lastmod>
+
+<priority>0.4</priority>
+
+</url>
 
 </urlset>
