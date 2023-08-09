@@ -1,0 +1,314 @@
+﻿@inproceedings{1999-APS-2,
+   author = {Benedetti, S. and Mariotto, G. and Levy, J. and Vinegoni, C.},
+   title = {Stress mapping in CVD diamond films by micro-Raman spectroscopy},
+   booktitle = {APS 1999 Meeting (Atlanta)},
+   year = {1999},
+   abbr = {1999-APS-2},
+   artnumber = {13},
+}
+
+@inproceedings{2004-OSA-3,
+   author = {Boppart, S.A. and Marks, D.L. and Bredfeldt, J.S. and Vinegoni, C.},
+   title = {Nonlinear interferometric vibrational imaging with differentiation of resonant CARS from nonresonant four-wave-mixing processes},
+   booktitle = {Optical Society of America Topical Meeting on Nonlinear Optics, Waikoloa, HI},
+   year = {2004},
+   abbr = {2004-OSA-3},
+   artnumber = {43},
+}
+
+@inproceedings{2004-NIH,
+   author = {Boppart, S.A. and Oldenburg, A.L. and Marks, D.L. and Vinegoni, C. and Bredfeldt, J.S. and Xu, C. and Gunther, J.R. and Toublan, F.J.J. and Watkin, K.L. and Suslick, K.S.},
+   title = {Molecular contrast enhancement for optical coherence tomography},
+   booktitle = {Poster presentation, NIH Optical Imaging Workshop, Bethesda, MD},
+   year = {2004},
+   abbr = {2004-NIH},
+   artnumber = {40},
+}
+
+@inproceedings{2004-AACR,
+   author = {Boppart, S.A. and Oldenburg, A.L. and Tan, W. and Marks, D.L. and Lee, T.M. and Vinegoni, C. and Bredfeldt, J.S. and Luo, W. and Gunther, J.R. and Suslick, K.S. and Singletary, K.W.},
+   title = {Optical coherence tomography for basic science investigation and clinical diagnosis of cancer},
+   booktitle = {Annual Meeting of the American Association for Cancer Research, Orlando, FL},
+   year = {2004},
+   abbr = {2004-AACR},
+   artnumber = {34},
+}
+
+@inproceedings{2004-SMI,
+   author = {Boppart, S.A. and Vinegoni, C. and Bredfeldt, J.S. and Marks, D.L.},
+   title = {Nonlinear interferometric vibrational imaging for molecular species detection and localization},
+   booktitle = {The Society for Molecular Imaging Annual Meeting, St. Louis, MO},
+   year = {2004},
+   abbr = {2004-SMI},
+   artnumber = {45},
+}
+
+@inproceedings{2004-AMI,
+   author = {Boppart, S.A. and Vinegoni, C. and Bredfeldt, J.S. and Marks, D.L. and Hambir, S. and Dlott, D.},
+   title = {Nonlinear interferometric vibrational imaging for molecular diagnostics},
+   booktitle = {Annual Conference of the Academy of Molecular Imaging, Orlando, FL},
+   year = {2004},
+   abbr = {2004-AMI},
+   artnumber = {35},
+}
+
+@inproceedings{2004-CUBIC,
+   author = {Bowonder, A. and Vinegoni, C. and Yafremava, L. and Gillete, R. and Boppart, S.A.},
+   title = {Optical coherence tomography of neural activity},
+   booktitle = {Chicago Universities Bioengineering Industry Consortium (CUBIC). Chicago, IL},
+   year = {2004},
+   abbr = {2004-CUBIC},
+   artnumber = {36},
+}
+
+@inproceedings{1997-RS,
+   author = {Cazzanelli, E. and Vinegoni, C. and Mariotto, G. and Kuzming, A. and Purans., J.},
+   title = {Raman resonant effects at the oxide interface in WxRe1−xO3−y mixed systems},
+   booktitle = {Annual conference of Raman Spectroscopy, Padova, Italy},
+   year = {1997},
+   abbr = {1997-RS},
+   artnumber = {4},
+}
+
+@inproceedings{1998-EMRS-2,
+   author = {Cazzanelli, M. and Cole, D. and Lunney, J.G. and O'Donnel, K.P. and Middleton, P.G. and Trager-Cowan, C. and Vinegoni, C. and Pavesi, L.},
+   title = {Luminescent properties of GaN thin films prepared by Pulsed Laser Deposition},
+   booktitle = {EMRS Conference},
+   year = {1998},
+   abbr = {1998-EMRS-2},
+   artnumber = {8},
+}
+
+@inproceedings{1997-INSEL-3,
+   author = {Cazzanelli, M. and Pavesi, L. and Vinegoni, C. and Brusa, R.S. and Karwasz, G.P. and Tiengo, M. and Zecca, A. and Surma, B. and Misiuk, A.},
+   title = {Investigations of the visible emission in thermal and pressure treated Czochralski-grown silicon},
+   booktitle = {Presented at the 5th annual meeting INSEL-V on “Light Emitting Silicon” in Modena},
+   year = {1997},
+   abbr = {1997-INSEL-3},
+   artnumber = {3},
+}
+
+@inproceedings{20019-CIRC,
+   author = {Cremer, S. and Schloss, M. and Vinegoni, C. and Zhang, S. and Rohde, D. and Fumene, F.P. and Stephen, S. and Greg, W. and Weissleder, R. and Swirski, F.K. and Nahrendorf, M.},
+   title = {A Mouse Model of Recurrent Myocardial Infarction Reports Diminished Emergency Hematopoiesis and Cardiac Inflammation},
+   booktitle = {Circulation},
+   year = {2019},
+   abbr = {20019-CIRC},
+   artnumber = {68},
+}
+
+@inproceedings{2014-AICHE,
+   author = {Dubach, J.M. and Vinegoni, C. and Weissleder, R.},
+   title = {Imaging Drug Target Engagement in Vivo},
+   booktitle = {AIChE Annual Meeting},
+   year = {2014},
+   abbr = {2014-AICHE},
+   artnumber = {64},
+}
+
+@inproceedings{2015-AICHE,
+   author = {Dubach, J.M. and Vinegoni, C. and Weissleder, R.},
+   title = {In Vivo Imaging of Anticancer Drug Activity At the Cellular Level},
+   booktitle = {AIChE Annual Meeting},
+   year = {2015},
+   abbr = {2015-AICHE},
+   artnumber = {65},
+}
+
+@inproceedings{2016-CR,
+   author = {Giedt, R.J. and Feruglio, P.F. and Pathania, D. and Yang, K.S. and Vinegoni, C. and Mitchison, T.J. and Weissleder, R.},
+   title = {Mitochondrial morphology as a biomarker of cancer phenotype and drug response},
+   booktitle = {Cancer Research},
+   year = {2016},
+   abbr = {2016-CR},
+   artnumber = {66},
+}
+
+@inproceedings{1997-INSEL-2,
+   author = {Giorgis, F. and Giuliani, C.F. and Tresso, E. and Calcagno, L. and Musumeci, P. and Reitano, R. and Compagnini, G. and Pavesi, L. and Vinegoni, C.},
+   title = {Radiative recombination processes in a-Si:C, H thin films deposited by plasma enhanced chemical vapour deposition},
+   booktitle = {Presented at the 5th annual meeting INSEL-V on “Light Emitting Silicon” in Modena},
+   year = {1997},
+   abbr = {1997-INSEL-2},
+   artnumber = {2},
+}
+
+@inproceedings{1997-INSEL-1,
+   author = {Giorgis, F. and Pirri, C.F. and Rizzoli, R. and Summonte, C.  and Pavesi, L. and Vinegoni, C.},
+   title = {Photoluminescence and electroluminescence in amorphous silicon–based superlattice structures},
+   booktitle = {Presented at the 5th annual meeting INSEL-V on “Light Emitting Silicon” in Modena},
+   year = {1997},
+   abbr = {1997-INSEL-1},
+   artnumber = {1},
+}
+
+@inproceedings{2011-EB,
+   author = {Haase, A. and Rigosi, E. and Anfora, G. and Vinegoni, C. and Vallortigara, G. and Antolini, R.},
+   title = {In-vivo two-photon imaging of the honeybee antennal lobe},
+   booktitle = {European Biophysics Journal with Biophysics Letters},
+   year = {2011},
+   abbr = {2011-EB},
+   artnumber = {61},
+}
+
+@inproceedings{2006-AHA,
+   author = {Jaffer, F.A. and Nahrendorf, M. and Vinegoni, C. and John, M.C. and Aikawa, E. and Uchihashi, M. and Finn, A.V. and Ntziachristos, V. and Libby, P. and Gold, H.K. and Weissleder, R.},
+   title = {In vivo imaging of protease activity in atherosclorosis using a near infrared fluorescence intravascular catheter},
+   booktitle = {AHA 2006},
+   year = {2006},
+   abbr = {2006-AHA},
+   artnumber = {51},
+}
+
+@inproceedings{2006-BMI,
+   author = {Jaffer, F.A. and Nahrendorf, M. and Vinegoni, C. and John, M.C. and Aikawa, E. and Uchihashi, M. and Finn, A.V. and Ntziachristos, V. and Libby, P. and Gold, H.K. and Weissleder, R.},
+   title = {In vivo near infrared fluorescence imaging of protease activity in a rabbit model of atherosclerosis},
+   booktitle = {BMI},
+   year = {2006},
+   abbr = {2006-BMI},
+   artnumber = {53},
+}
+
+@inproceedings{1999-UKNC,
+   author = {Lunney, J.G. and Cole, D. and Cazzanelli, M. and Vinegoni, C. and Castro, J.},
+   title = {Pulsed laser deposition of gallium nitrade},
+   booktitle = {Presented at THE 1ST UKNC CONFERENCE},
+   year = {1999},
+   abbr = {1999-UKNC},
+   artnumber = {15},
+}
+
+@inproceedings{1998-ECDDNSC,
+   author = {Mariotto, G. and Vinegoni, C. and Jacobson, L.G. and Freire Jr., F.L.},
+   title = {Raman spectroscopy and scanning electron microscopy investigations of annealed amorphous carbon- germanium films deposited by dc-magnetron sputtering},
+   booktitle = {Diamond 1998, 9th European Conf. on Diamond, Diamondlike materials, Nitrides and Silicon carbide. Creta, Greece},
+   year = {1998},
+   abbr = {1998-ECDDNSC},
+   artnumber = {5},
+}
+
+@inproceedings{2003-NCI,
+   author = {Marks, D.L. and Hambir, S. and Vinegoni, C. and Bredfeldt, J.S. and Xu, C. and Ye, J. and Wiedermann, A. and Dlott, D. and Gruebele, M. and Kitchell, B. and Boppart, S.A.},
+   title = {Nonlinear Interferometric Vibrational Imaging},
+   booktitle = {Meeting of the NCI/NASA Fundamental technologies for the development of biomolecular sensors programs},
+   year = {2003},
+   abbr = {2003-NCI},
+   artnumber = {33},
+}
+
+@inproceedings{2004-OSA-4,
+   author = {Marks, D.L. and Vinegoni, C. and Bredfeldt, J.S. and Boppart, S.A.},
+   title = {Interferometric contrast between resonant coherent anti-Stokes Raman Scattering and nonresonant four-wave mixing},
+   booktitle = {Optical Society of America Annual Meeting, Rochester, NY},
+   year = {2004},
+   abbr = {2004-OSA-4},
+   artnumber = {44},
+}
+
+@inproceedings{2004-FBIS,
+   author = {Marks, D.L. and Vinegoni, C. and Bredfeldt, J.S. and Xu, C. and Wiedermann, A. and Dlott, D. and Gruebele, M. and Kitchell, B. and boppart, S.A.},
+   title = {Biomolecular laser imaging and therapeutic system},
+   booktitle = {Poster presentation, Frontiers of Biomedical Imaging Symposium, Urbana, IL},
+   year = {2004},
+   abbr = {2004-FBIS},
+   artnumber = {38},
+}
+
+@inproceedings{2001-TWANN,
+   author = {Mugnier, Y. and Mored, M. and Descouts, P. and Vinegoni, C. and Wegmuller, M. and Gisin, N.},
+   title = {A near infrared SNOM: first results and prospects},
+   booktitle = {Workshop on nanoscience 2001. (Twannberg, CH)},
+   year = {2001},
+   abbr = {2001-TWANN},
+   artnumber = {26},
+}
+
+@inproceedings{2007-DRC,
+   author = {Pitsouli, C and Vinegoni, C. and Razansky, D. and Ntziachristos, V. and Perrimon, N.},
+   title = {Live imaging of Drosophila pupae with Fluorescence Molecular Tomography},
+   booktitle = {48th Annual Drosophila Research Conference (2007)},
+   year = {2007},
+   abbr = {2007-DRC},
+   artnumber = {55},
+}
+
+@inproceedings{2013-FASEB,
+   author = {Roy, J. and Ruan, Y.C. and Hill, E. and Visconti, P. and Krapf, D. and Vinegoni, C. and Breton, S.},
+   title = {Regulation of basal cell plasticity by epidermal growth factor and c-sRc in vivo in the mouse epididymis},
+   booktitle = {FASEB J.},
+   year = {2013},
+   abbr = {2013-FASEB},
+   artnumber = {63},
+}
+
+@inproceedings{1999-APS-1,
+   author = {Trivelli, A. and Cazzanelli, M. and Vinegoni, C. and Lunney, J.G. and Levy, J.},
+   title = {Morphological and optical characterization of GaN prepared by pulsed laser ablation},
+   booktitle = {APS 1999 Meeting (Atlanta)},
+   year = {1999},
+   abbr = {1999-APS-1},
+   artnumber = {12},
+}
+
+@inproceedings{1998-PITT,
+   author = {Vinegoni, C.},
+   title = {Porous silicon multilayers and microcavities},
+   booktitle = {Presented at the Dept. of Physics, University of Pittsburgh US},
+   year = {1998},
+   abbr = {1998-PITT},
+   artnumber = {9},
+}
+
+@inproceedings{1999-KONST,
+   author = {Vinegoni, C.},
+   title = {Structure and vibrational dynamics of WO3 and W1−xRexO3−y},
+   booktitle = {Presented at the Dept. of Physics, Universitaet Konstanz (D)},
+   year = {1999},
+   abbr = {1999-KONST},
+   artnumber = {14},
+}
+
+@inproceedings{2007-SMI,
+   author = {Vinegoni, C. and Pitsouli, C and Razansky, D. and Perrimon, N. and Ntziachristos, V.},
+   title = {In-vivo Mesoscopic Fluorescence Tomography of Developing Insects},
+   booktitle = {SMI, Rhode Island (MA)},
+   year = {2007},
+   abbr = {2007-SMI},
+   artnumber = {56},
+}
+
+@inproceedings{2000-GB-1,
+   author = {Vinegoni, C. and Wegmuller, M. and Gisin, N.},
+   title = {Measurement of nonlinear coefficient n2/Aef f in optical fibers using a self aligned interferometer and a Faraday Mirror},
+   booktitle = {Presented at Goteborg ’00 (COST 265)},
+   year = {2000},
+   abbr = {2000-GB-1},
+   artnumber = {17},
+}
+
+@inproceedings{1999-AMALFI,
+   author = {Vinegoni, C. and Wegmuller, M. and Huttner, B. and Gisin, N.},
+   title = {Measurement of nonlinear polarization rotation in high birefringence optical fibers with a Faraday mirror},
+   booktitle = {Presented at Amalfi Workshop ’99 (Amalfi, Italy)},
+   year = {1999},
+   abbr = {1999-AMALFI},
+   artnumber = {11},
+}
+
+@inproceedings{2000-GB-2,
+   author = {Vinegoni, C. and Wegmuller, M. and Huttner, B. and Gisin, N.},
+   title = {Nonlinear polarization rotation in high birefringence optical fibers with a Faraday mirror},
+   booktitle = {Presented at Goteborg ’00 (COST 265)},
+   year = {2000},
+   abbr = {2000-GB-2},
+   artnumber = {18},
+}
+
+@inproceedings{2017-ACS,
+   author = {Vinegoni, C. and Weissleder, R.},
+   title = {Two photon fluorescence polarization microscopy for imaging and quantifying drug target binding in vitro and in vivo},
+   booktitle = {Abstracts of Papers of the American Chemical Society},
+   year = {2017},
+   abbr = {2017-ACS},
+   artnumber = {67},
+}

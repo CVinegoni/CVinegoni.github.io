@@ -1,0 +1,331 @@
+﻿@inproceedings{2004-OSA-1,
+   author = {Boppart, S.A. and Lazebnik, M. and Vinegoni, C. and Bowonder, A. and Marks, D.L. and Gillete, R.},
+   title = {Functional optical coherence tomography of neurophysiology},
+   booktitle = {OSA BIOMED 2004 (Miami, FL)},
+   year = {2004},
+   PDF = {2004-OSA-1.pdf},
+   abbr = {2004-OSA-1},
+   artnumber = {41},
+}
+
+@inproceedings{2004-LEOS,
+   author = {Boppart, S.A. and Marks, D.L. and Oldenburg, A.L. and Vinegoni, C. and Bredfeldt, J.S. and Chenyang, X. and Gunther, J.R. and Toublan, F.J.J. and Suslick, K.S.},
+   title = {Contrast enhancement methods for optical coherence tomography},
+   booktitle = {2004 Digest of the LEOS Summer Topical Meetings},
+   year = {2004},
+   PDF = {2004-LEOS.pdf},
+   abbr = {2004-LEOS},
+   artnumber = {39},
+}
+
+@inproceedings{2005-SPIE-2,
+   author = {Boppart, S.A. and Tan, W. and Ko, H.J. and Vinegoni, C.},
+   title = {Optical coherence tomography of cell dynamics in three-dimensional engineered tissues},
+   booktitle = {SPIE 2005, Optical Coherence Tomography and Coherence Techniques II},
+   year = {2005},
+   PDF = {2005-SPIE-2.pdf},
+   abbr = {2005-SPIE-2},
+   artnumber = {50},
+}
+
+@inproceedings{2006-BIOSA,
+   author = {Boppart, S.A. and Vinegoni, C. and Tan, W. and Luo, W. and Ralston, T. and Marks, D.L.},
+   title = {Advances in optical imaging of dynamic three-dimensional engineered tissues},
+   booktitle = {Biomedical OSA, Ft. Lauderdale (FL)},
+   year = {2006},
+   PDF = {2006-BIOSA.pdf},
+   abbr = {2006-BIOSA},
+   artnumber = {52},
+}
+
+@inproceedings{2004-SPIE-1,
+   author = {Bredfeldt, J.S. and Marks, D.L. and Vinegoni, C. and Hambir, S. and Dlott, D. and Boppart, S.A.},
+   title = {Nonlinear interferometric vibrational imaging of molecular species},
+   booktitle = {SPIE 2004 Medical Imaging (S. Diego, CA)},
+   year = {2004},
+   PDF = {2004-SPIE-1.pdf},
+   abbr = {2004-SPIE-1},
+   artnumber = {46},
+}
+
+@inproceedings{1998-ECSI,
+   author = {Cazzanelli, E. and Vinegoni, C. and Mariotto, G. and Kuzmin, A. and Purans., J.},
+   title = {Changes of structural, optical and vibrational properties of WO3 powders after milling or mixing with ReO3},
+   booktitle = {Electrochemical Society International meeting (S. Antonio TX, USA)},
+   year = {1998},
+   PDF = {1998-ECSI.pdf},
+   abbr = {1998-ECSI},
+   artnumber = {6},
+}
+
+@inproceedings{2002-PN,
+   author = {Chen, H. and Leblanc, M. and Schinn, G. and Vinegoni, C. and Wegmuller, M. and Gisin, N.},
+   title = {PMD effect on measurements of distributed chromatic dispersion in DSF fibers},
+   booktitle = {Photonics North 2002 (Quebec City, CA)},
+   year = {2002},
+   PDF = {2002-PN.pdf},
+   abbr = {2002-PN},
+   artnumber = {30},
+}
+
+@inproceedings{2004-SPIE-2,
+   author = {Fahrner, L.J. and Tan, W. and Vinegoni, C. and Eurell, T. and Boppart, S.A.},
+   title = {Structural and Functional Imaging of Engineered Tissue Development using an Integrated OCT and MultiPhoton Microscope},
+   booktitle = {SPIE 2004 Medical Imaging (S. Diego, CA)},
+   year = {2004},
+   PDF = {2004-SPIE-2.pdf},
+   abbr = {2004-SPIE-2},
+   artnumber = {47},
+}
+
+@inproceedings{1998-EMRS-1,
+   author = {Giorgis, F. and Pirri, C.F. and Vinegoni, C. and Pavesi, L.},
+   title = {Radiative emission properties of a-SiN:H based alloys, nanometric multilayers and light emitting devices},
+   booktitle = {E-MRS 98 Spring Meeting},
+   year = {1998},
+   PDF = {1998-EMRS.pdf},
+   abbr = {1998-EMRS-1},
+   artnumber = {7},
+}
+
+@inproceedings{2020-BIBE,
+   author = {Issa, T.B. and Vinegoni, C. and Shaw, A. and Feruglio, P.F. and Weissleder, R. and Uminsky, D.},
+   title = {Video-rate acquisition fluorescence microscopy via generative adversarial networks},
+   booktitle = {2020 IEEE 20th International Conference on Bioinformatics and Bioengineering (BIBE)},
+   year = {2020},
+   PDF = {2020-BIBE.pdf},
+   abbr = {2020-BIBE},
+   artnumber = {69},
+}
+
+@inproceedings{2011-SPIE,
+   author = {Mallas, G. and Brooks, D.H. and Rosenthal, A. and Vinegoni, C. and Calfon, M.A. and Razansky, D. and Jaffer, F.A. and Ntziachristos, V.},
+   title = {An algorithm to correct 2D near-infrared fluorescence signals using 3D intravascular ultrasound architectural information},
+   booktitle = {Multimodal Biomedical Imaging},
+   year = {2011},
+   PDF = {2011-SPIE.pdf},
+   abbr = {2011-SPIE},
+   artnumber = {62},
+}
+
+@inproceedings{1998-SPIE,
+   author = {Manfredotti, C. and Fizzotti, F. and Lo Giudice, A. and Mucera, G. and Polesello, P. and Vittone, E. and Mariotto, G. and Vinegoni, C. and Cazzanelli, E.},
+   title = {CVD diamond wires and tips for x-ray detection: growth and characterization by SEM and micro-Raman spectroscopy},
+   booktitle = {SPIE conference in “Laser processes in synthesis, characterization and processing of diamond”},
+   year = {1998},
+   PDF = {1998-SPIE.pdf},
+   abbr = {1998-SPIE},
+   artnumber = {10},
+}
+
+@inproceedings{2004-EMBS,
+   author = {Marks, D.L. and Vinegoni, C. and Bredfeldt, J.S. and Boppart, S.A.},
+   title = {Pulse Shaping Strategies for Nonlinear Interferometric Vibrational Imaging Optimized for Biomolecular Imaging},
+   booktitle = {EMBS 2004 Engineering in Medicine and Biology (S. Francisico, CA)},
+   year = {2004},
+   PDF = {2004-EMBS.pdf},
+   abbr = {2004-EMBS},
+   artnumber = {37},
+}
+
+@inproceedings{2005-SPIE-1,
+   author = {Marks, D.L. and Vinegoni, C. and Bredfeldt, J.S. and Boppart, S.A.},
+   title = {Molecularly-sensitive optical ranging using nonlinear interferometric vibrational imaging},
+   booktitle = {Progress in Biomedical Optics and Imaging - Proceedings of SPIE Coherence Domain Optical Methods and Optical Coherence Tomography in Biomedicine IX},
+   year = {2005},
+   PDF = {2005-SPIE-1.pdf},
+   abbr = {2005-SPIE-1},
+   artnumber = {49},
+}
+
+@inproceedings{2005-BIOS,
+   author = {Marks, D.L. and Vinegoni, C. and Bredfeldt, J.S. and Boppart, S.A.},
+   title = {Nonlinear interferometric vibrational imaging: optical ranging and spatial localization of CARS},
+   booktitle = {BIOS 2005, San Jose, CA},
+   year = {2005},
+   PDF = {2005-BIOS.pdf},
+   abbr = {2005-BIOS},
+   artnumber = {48},
+}
+
+@inproceedings{2002-NIST,
+   author = {Namihira, Y. and Miyagy, K. and Kaneshima, K. and Tadakuma, M. and Vinegoni, C. and Pietra, G. and Kawanami, K.},
+   title = {A Comparison of Six techniques for nonlinear coefficient measurements of various single mode optical fibers},
+   booktitle = {NIST 2002 Boulder, CO (USA)},
+   year = {2002},
+   PDF = {2002-NIST.pdf},
+   abbr = {2002-NIST},
+   artnumber = {28},
+}
+
+@inproceedings{2003-ECOC-2,
+   author = {Petersson, M. and Vinegoni, C. and Sunnerud, H. and Karlsson, M.},
+   title = {Distribution of Differential Group Delay in Recirculating Loops},
+   booktitle = {IEEE LEOS Summer Topical Meeting 2003, Vancouver, Canada},
+   year = {2003},
+   PDF = {2003-ECOC-2.pdf},
+   abbr = {2003-ECOC-2},
+   artnumber = {32},
+}
+
+@inproceedings{2010-SPIE,
+   author = {Razansky, D. and Distel, M. and Vinegoni, C. and Ma, R. and Koster, R. and Ntziachristos, V.},
+   title = {Fluorescent protein imaging with multispectral optoacoustic tomography},
+   booktitle = {Photons Plus Ultrasound, San Jose (CA) 2010},
+   year = {2010},
+   PDF = {2010-SPIE.pdf},
+   abbr = {2010-SPIE},
+   artnumber = {60},
+}
+
+@inproceedings{2008-SPIE,
+   author = {Razansky, D. and Vinegoni, C. and Ntziachristos, V.},
+   title = {Multi-spectral photo-acoustic molecular tomography resolves fluorochrome distribution with high resolution and sensitivity in small animals},
+   booktitle = {Photons Plus Ultrasound, San Jose (CA)},
+   year = {2008},
+   PDF = {2008-SPIE.pdf},
+   abbr = {2008-SPIE},
+   artnumber = {57},
+}
+
+@inproceedings{2009-BIOS-2,
+   author = {Razansky, D. and Vinegoni, C. and Ntziachristos, V.},
+   title = {Deep tissue optoacoustic imaging of polarized structures},
+   booktitle = {Conference on Photons Plus Ultrasound - Imaging and Sensing},
+   year = {2009},
+   PDF = {2009-BIOS-2.pdf},
+   abbr = {2009-BIOS-2},
+   artnumber = {59},
+}
+
+@inproceedings{2009-BIOS-1,
+   author = {Razansky, D. and Vinegoni, C. and ntziachristos, V.},
+   title = {Mesoscopic imaging of fluorescent proteins using multi-spectral optoacoustic tomography},
+   booktitle = {Photons Plus Ultrasound, San Jose (CA)},
+   year = {2009},
+   PDF = {2009-BIOS-1.pdf},
+   abbr = {2009-BIOS-1},
+   artnumber = {58},
+}
+
+@inproceedings{2004-OSA-2,
+   author = {Vinegoni, C. and Bredfeldt, J.S. and Marks, D.L. and Boppart, S.A.},
+   title = {Nonlinear optical contrast enhancement in OCT},
+   booktitle = {OSA BIOMED 2004 (Miami, FL)},
+   year = {2004},
+   PDF = {2004-OSA-2.pdf},
+   abbr = {2004-OSA-2},
+   artnumber = {42},
+}
+
+@inproceedings{2002-OFC,
+   author = {Vinegoni, C. and Chen, H. and Leblanc, M. and Schinn, G. and Wegmuller, M. and Gisin, N.},
+   title = {Distributed measurements of chromatic dispersion and of the nonlinear coefficient in DSF fibers with non negligible values of PMD},
+   booktitle = {OFC 2002 (Anaheim, U.S.A.)},
+   year = {2002},
+   PDF = {2002-OFC.pdf},
+   abbr = {2002-OFC},
+   artnumber = {29},
+}
+
+@inproceedings{2003-ECOC-1,
+   author = {Vinegoni, C. and Karlsson, M. and Petersson, M. and Sunnerud, H.},
+   title = {Polarization-dependent loss statistics in recirculating loops},
+   booktitle = {ECOC 2003 (Rimini, Italy)},
+   year = {2003},
+   PDF = {2003-ECOC-1.pdf},
+   abbr = {2003-ECOC-1},
+   artnumber = {31},
+}
+
+@inproceedings{2006-SPIE,
+   author = {Vinegoni, C. and Ralston, T. and Tan, W. and Marks, D.L. and Boppart, S.A.},
+   title = {Multi-modality imaging of structure and function combining spectral-domain optical coherence and multiphoton microscopy},
+   booktitle = {SPIE 2006},
+   year = {2006},
+   PDF = {2006-SPIE.pdf},
+   abbr = {2006-SPIE},
+   artnumber = {54},
+}
+
+@inproceedings{2000-NIST-1,
+   author = {Vinegoni, C. and Wegmuller, M. and Gisin, N.},
+   title = {Estimation of the polarization coupling length in standard telecom fibers from measurements of nonlinear polarization rotation},
+   booktitle = {NIST 2000 (Boulder, CO)},
+   year = {2000},
+   PDF = {2000-NIST-1.pdf},
+   abbr = {2000-NIST-1},
+   artnumber = {20},
+}
+
+@inproceedings{2000-CLEO,
+   author = {Vinegoni, C. and Wegmuller, M. and Gisin, N.},
+   title = {Faraday mirror stabilization scheme for nonlinear polarization rotation in optical fibers: model and applications},
+   booktitle = {CLEO 2000 (Nice)},
+   year = {2000},
+   PDF = {2000-CLEO.pdf},
+   abbr = {2000-CLEO},
+   artnumber = {16},
+}
+
+@inproceedings{2000-ICTON,
+   author = {Vinegoni, C. and Wegmuller, M. and Gisin, N.},
+   title = {Implementation of a Faraday mirror stabilization scheme for all optical switching in a standard telecom fiber},
+   booktitle = {ICTON 2000 (Warsaw, Poland)},
+   year = {2000},
+   PDF = {2000-ICTON.pdf},
+   abbr = {2000-ICTON},
+   artnumber = {19},
+}
+
+@inproceedings{2000-NOISE,
+   author = {Vinegoni, C. and Wegmuller, M. and Gisin, N.},
+   title = {Measurements of the nonlinear coefficient n2/Aef f using a self aligned interferometer and a Faraday mirror},
+   booktitle = {NOISE 2000 (Twente, the Netherlands).},
+   year = {2000},
+   PDF = {2000-NOISE.pdf},
+   abbr = {2000-NOISE},
+   artnumber = {22},
+}
+
+@inproceedings{2001-OFC,
+   author = {Vinegoni, C. and Wegmuller, M. and Gisin, N.},
+   title = {Measurements of the polarization coupling length in telecom fiber using nonlinear polarization rotation},
+   booktitle = {OFC 2001 (Anaheim, U.S.A.)},
+   year = {2001},
+   PDF = {2001-OFC.pdf},
+   abbr = {2001-OFC},
+   artnumber = {23},
+}
+
+@inproceedings{2001-OFMC-1,
+   author = {Vinegoni, C. and Wegmuller, M. and Gisin, N. and Nakajima, K. and Ohashi, M.},
+   title = {Interlaboratory measurements of the nonlinear coefficient of standard SMF and DSF fibers using an inter- ferometric method and an SPM based cw dual-frequency method},
+   booktitle = {OFMC 2001, Cambridge (UK)},
+   year = {2001},
+   PDF = {2001-OFMC-1.pdf},
+   abbr = {2001-OFMC-1},
+   artnumber = {24},
+}
+
+@inproceedings{2001-OFMC-2,
+   author = {Wegmuller, M. and Demma, S. and Vinegoni, C. and Gisin, N.},
+   title = {First and second order PMD emulator},
+   booktitle = {OFMC 2001, Cambridge (UK)},
+   year = {2001},
+   PDF = {2001-OFMC-2.pdf},
+   abbr = {2001-OFMC-2},
+   artnumber = {25},
+}
+
+@inproceedings{2000-NIST-2,
+   author = {Wegmuller, M. and Oberson, P. and von der Weid, J.P. and Guinnard, O. and Guinnard, L. and Vinegoni, C. and Legre, M. and Gisin, N.},
+   title = {Overview of coherent reflectometry techniques: characterization of components and small systems},
+   booktitle = {NIST 2000 (Boulder, CO)},
+   year = {2000},
+   PDF = {2000-NIST-2.pdf},
+   abbr = {2000-NIST-2},
+   artnumber = {21},
+}
+
+
